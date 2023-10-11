@@ -10,8 +10,11 @@ https://asia.vthanhtivi.pw/ksport2/index.m3u8
 #EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS - MyK+
 https://asia.vthanhtivi.pw/kkids/index.m3u8
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/mBHRZbg/VTV1-BEARTV.png",VTV1       
-#https://e2.endpoint.cdn.sctvonline.vn/hls/vtv1/index.m3u8|Referer=http://sctvonline.vn/
+	
+#EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
+
+#https://code.vthanhtivi.pw/getlink/vieon/vtv1-hd/playlist.m3u8
+https://live2onsport.vtvcab.vn/onplus/VTV1_HD/m30_index.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2
 
 https://code.vthanhtivi.pw/getlink/vieon/vtv2-hd/playlist.m3u8
