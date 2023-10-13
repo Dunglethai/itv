@@ -73,9 +73,6 @@ https://7pal.short.gy/BTUltimate
 https://7pal.short.gy/digi4k
 #EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://broccoli.tvchannellists.com/images/f/f9/Eleven_Sports_1.png" group-title="Sports",ElevenSport1
 https://7pal.short.gy/11sports1
-#EXTINF:-1 tvg-id="5SPORT.4K.[Sport.5.4K].il" tvg-logo="https://i.imgur.com/EPIy6eZ.png" group-title="Sports",5Sport
-https://7pal.short.gy/5sport
-
 #EXTINF:-1 group-title="⚽|Live Event" group-logo="http://gg.gg/live4kkkkk" tvg-logo="http://gg.gg/live4kkkkk",TNT Sports Ultimate UHD
 http://46.175.129.181:80/play/live.php?mac=00:1a:79:96:ac:e7&stream=479413&extension=ts&play_token=TLgX98bYtN
 
@@ -193,20 +190,8 @@ https://ktpremium.com:443/mw007/3300722007/932516
 https://ktpremium.com:443/mw007/3300722007/932517
 #EXTINF:-1,[FR] BEIN SPORTS MAX 10 FHD (EVENT ONLY)
 https://ktpremium.com:443/mw007/3300722007/932518
-#EXTINF:-1,[AR] BEIN SPORTS NBA
-https://ktpremium.com:443/mw007/3300722007/932519
 #EXTINF:-1,[AR] BEIN SPORTS XTRA 1
 https://ktpremium.com:443/mw007/3300722007/932520
-#EXTINF:-1,[UK] SKY SPORTS MAIN EVENT VIP
-https://ktpremium.com:443/mw007/3300722007/932540
-#EXTINF:-1,[UK] SKY SPORTS FOOTBALL VIP
-https://ktpremium.com:443/mw007/3300722007/932541
-#EXTINF:-1,[UK] SKY SPORTS PREMIER LEAGUE VIP
-https://ktpremium.com:443/mw007/3300722007/932542
-#EXTINF:-1,[DSTV] SUPERSPORT FOOTBALL 
-https://ktpremium.com:443/mw007/3300722007/932578
-#EXTINF:-1,[DSTV] SUPERSPORT PREMIER LEAGUE 
-https://ktpremium.com:443/mw007/3300722007/932584
 #EXTINF:-1,[ENG] Bein Sports 1
 https://ktpremium.com:443/mw007/3300722007/932608
 #EXTINF:-1,[ENG] Bein Sports 2
