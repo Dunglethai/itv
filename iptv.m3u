@@ -19,6 +19,16 @@ https://asia.vthanhtivi.pw/ksport1/index.m3u8
 https://asia.vthanhtivi.pw/ksport2c/index.m3u8
 #EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS - ClipTV
 https://asia.vthanhtivi.pw/kkidsc/index.m3u8
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE - MyK+
+https://asia.vthanhtivi.pw/kcine/index.m3u8?token=83cba8c6497a993ce2e2079fb386d988ffdc6d0c-b876cfd682cbe8d45777e08354c47696-1698503718-1698492918
+#EXTINF:-1 tvg-id="kaction" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ ACTION - MyK+
+https://asia.vthanhtivi.pw/klife/index.m3u8?token=d743821228244c895dde3a1704fcfa6b40c10ea6-019cab9ffa55fcaae766f031e5b40ef4-1698503718-1698492918
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 - MyK+
+https://asia.vthanhtivi.pw/ksport1/index.m3u8?token=725c68870cd8e0e5b84ee6de516d1cb87837720e-a30978ab3f6abeed0703020bca569e63-1698503718-1698492918
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - MyK+
+https://asia.vthanhtivi.pw/ksport2/index.m3u8?token=cce30e4bf4c3892a2b4081c81514a47adda2df8e-10c0a35edb599da777287b38e8419735-1698503718-1698492918
+#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS - MyK+
+https://asia.vthanhtivi.pw/kkids/index.m3u8?token=7161bcdd2f35b5acc590c85b9f6d79a43341685c-0332b4b414c47f9f5534cd6bbe2f1a3c-1698503718-1698492918
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv1logokiptv" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
