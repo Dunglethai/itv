@@ -33,10 +33,7 @@ https://live2onsport.vtvcab.vn/hls/VTV9_HD/sc-gaFEAA/m20_index.m3u8
 #EXTINF:-1, Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
-#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",SkySportsMainEvent
-https://7pal.short.gy/SSMEuhd
-#EXTINF:-1 tvg-id="Astro.SuperSport.UHD.1.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-title="Sports",AstroSuperSport
-https://7pal.short.gy/astrouhd
+
 #EXTINF:-1 tvg-id="4k_DIGITAL_Mono_EN.bein" tvg-logo="https://www.universfreebox.com/wp-content/uploads/2022/11/beinsport4k-800x450-c-default.jpg" group-title="Sports",beIN
 https://7pal.short.gy/bein-uhd
 #EXTINF:-1 tvg-id="English.-.Now.Sports.4K.1.hk" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_170_122" group-title="Sports",NowSports
@@ -45,8 +42,7 @@ https://7pal.short.gy/nowsport4k
 https://7pal.short.gy/HubP2uhd
 #EXTINF:-1 tvg-id="V.sport.ULTRA.HD.fi" tvg-logo="https://i.imgur.com/J2dnfBZ.png" group-title="Sports",V SportUltraHD
 https://7pal.short.gy/VSportUHD
-#EXTINF:-1 tvg-id="BT.Sport.Ultimate.uk" tvg-logo="https://media.info/l/o/5/5824.1689874022.png" group-title="Sports",TNTSportUltimate
-https://7pal.short.gy/BTUltimate
+
 #EXTINF:-1 tvg-id="Digi.4K.ro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg" group-title="Sports",Digi
 https://7pal.short.gy/digi4k
 #EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://broccoli.tvchannellists.com/images/f/f9/Eleven_Sports_1.png" group-title="Sports",ElevenSport1
@@ -58,12 +54,6 @@ http://apbest.re:80/live/18220704922642218/1593574628/75309.ts
 http://apbest.re:80/live/18220704922642218/1593574628/99164.ts
 #EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/digisport1kkk",Digi Sports 1
 http://kleineinzeige.com:8080/live/Ciprian-Petrea1/EV7P2jur/38531.m3u8
-#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/vsporthdkkk",V Sports UltraHD
-http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=1112184&extension=ts&play_token=vQhGArOASz
-#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/NBCsportskkk",NBC Sports UHD
-http://m.octotv.live:80/play/live.php?mac=00:1A:79:5E:B2:55&stream=1124350&extension=ts&play_token=Z5H3g2fOnu
-#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/canalkkk",Canal+ Sports UHD
-http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=526130&extension=ts&play_token=MlgpSMgsLy
 
 #EXTINF:-1 group-title="UK Channel" tvg-logo="http://gg.gg/ssmainevent2020kkk",Sky Sports Main Event FHD
 http://ipgurl.xyz:80/live/Globe/qxi0sjvYJs!@/9398.m3u8
@@ -74,10 +64,6 @@ http://ipgurl.xyz:80/live/Globe/qxi0sjvYJs!@/9402.m3u8
 http://geckohost.bid:8080/play/UpCkua7LeZfNKF1IkNXfrNpKqmrfMFyBP4_zZiuWphQXIhWtWNbe-yuaYs7_0CmW7VmXTYj8suAcih0GvTTvm-Qa9dOxGb1CVlKKW4RD5zWQ_M8t3IxrT8hHTPnGPP34OoK3EDAF1WHXTctlY4kpxWtsf8uczkD88GSB5Byc-6Q?ext=.ts
 
 
-#EXTINF:-1 group-title="UK Channel" tvg-logo="http://gg.gg/viaplay123kkk",ViaPlay Sports 1 FHD
-http://cocopops.xyz:8080/play/live.php?mac=00:1A:79:4a:c0:e0&stream=162549&extension=ts&play_token=IVSS5PbCug
-#EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_170_122",Now Premier Sport 1 FHD
-http://oaclass.live:8080/play/live.php?mac=00:1A:79:AB:59:41&stream=670231&extension=ts&play_token=GvrS7HOXKv
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",Astro Supersport 1 FHD
 http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57653.ts
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",Astro Supersport 2 FHD
@@ -89,8 +75,7 @@ http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57656.ts
 
 #EXTINF:0,GR: NOVA SPORT 1 HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/52218
-#EXTINF:0,GR: NOVA SPORT 2 HD
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/52219
+
 #EXTINF:0,GR: NOVA SPORT 3 HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/52220
 #EXTINF:0,GR: NOVA SPORT 4 HD
