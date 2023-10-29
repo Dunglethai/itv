@@ -205,6 +205,23 @@ http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57655.ts
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",Astro Supersport 4 FHD
 http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57656.ts
 
+#EXTINF:0,GR: NOVA SPORT 1 HD
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/52218
+#EXTINF:0,GR: NOVA SPORT 2 HD
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/52219
+#EXTINF:0,GR: NOVA SPORT 3 HD
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/52220
+#EXTINF:0,GR: NOVA SPORT 4 HD
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/52221
+#EXTINF:0,GR: Nova SPORT 6 HD
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/52222
+#EXTINF:0,GR: Sky top event HD
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/54623
+#EXTINF:0,GR: SkySPORT MAN HD
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/4699
+#EXTINF:0,GR: SkySPORT PL HD
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/4701
+
 #EXTINF:-1,[MY] ASTRO ASSP (VIP)
 https://ktpremium.com:443/mw007/3300722007/26312
 #EXTINF:-1,[MY]ASTRO ASSP FHD
