@@ -28,7 +28,7 @@ https://live2onsport.vtvcab.vn/hls/VTV8_HD/sc-gaFEAA/m20_index.m3u8
 
 https://live2onsport.vtvcab.vn/hls/VTV9_HD/sc-gaFEAA/m20_index.m3u8
 
-EXTINF:-1, Cosmote Sport UHD 4K
+EXTINF:0,Cosmote Sport UHD 4K
 http://alibaabahateyou7.ddns.net:80/sRVOiJhS3l/q5aBYjJld3/319217
 EXTINF:-1 tvg-id="espn.nl" tvg-name="[NL]* ESPN 1 UHD 4K" tvg-logo="http://kb007.xyz/picons/espn.png" group-title="VIP | Sports Netherlands",[NL]* ESPN 1 UHD 4K
 http://alibaabahateyou7.ddns.net:80/sRVOiJhS3l/q5aBYjJld3/316954
@@ -51,7 +51,48 @@ http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57655.ts
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",Astro Supersport 4 FHD
 http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57656.ts
 
+#EXTINF:-1 tvg-id="NovaSports1.gr" tvg-name="GR:* Nova Sports 1 HD" tvg-logo="http://kb007.xyz/picons/novasports1.png" group-title="VIP | Sports Greece",GR:* Nova Sports 1 HD
+http://alibaabahateyou7.ddns.net:80/sRVOiJhS3l/q5aBYjJld3/12379
+#EXTINF:-1 tvg-id="NovaSports2.gr" tvg-name="GR:* Nova Sports 2 HD" tvg-logo="http://kb007.xyz/picons/novasports2.png" group-title="VIP | Sports Greece",GR:* Nova Sports 2 HD
+http://alibaabahateyou7.ddns.net:80/sRVOiJhS3l/q5aBYjJld3/12380
+#EXTINF:-1 tvg-id="NovaSports3.gr" tvg-name="GR:* Nova Sports 3 HD" tvg-logo="http://kb007.xyz/picons/novasports3.png" group-title="VIP | Sports Greece",GR:* Nova Sports 3 HD
+http://alibaabahateyou7.ddns.net:80/sRVOiJhS3l/q5aBYjJld3/12381
+#EXTINF:-1 tvg-id="NovaSports4.gr" tvg-name="GR:* Nova Sports 4 HD" tvg-logo="http://kb007.xyz/picons/novasports4.png" group-title="VIP | Sports Greece",GR:* Nova Sports 4 HD
+http://alibaabahateyou7.ddns.net:80/sRVOiJhS3l/q5aBYjJld3/12382
+#EXTINF:-1 tvg-id="NovaSports5.gr" tvg-name="GR:* Nova Sports 5 HD" tvg-logo="http://kb007.xyz/picons/novasports5.png" group-title="VIP | Sports Greece",GR:* Nova Sports 5 HD
+http://alibaabahateyou7.ddns.net:80/sRVOiJhS3l/q5aBYjJld3/17339
+#EXTINF:-1 tvg-id="nowsportspremierleague1.hk" tvg-name="HK: Now Premier Sports 1 FHD" tvg-logo="" group-title="VIP | Sports HK/Taiwan",HK: Now Premier Sports 1 FHD
+http://alibaabahateyou7.ddns.net:80/sRVOiJhS3l/q5aBYjJld3/200230
 
+#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/footuhdkkk",Canal+ Foot UHD
+http://apbest.re:80/live/18220704922642218/1593574628/75309.ts
+#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/elevenkkk",Eleven 4K
+http://apbest.re:80/live/18220704922642218/1593574628/99164.ts
+#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/digisport1kkk",Digi Sports 1
+http://kleineinzeige.com:8080/live/Ciprian-Petrea1/EV7P2jur/38531.m3u8
+
+#EXTINF:-1 group-title="UK Channel" tvg-logo="http://gg.gg/ssmainevent2020kkk",Sky Sports Main Event FHD
+http://ipgurl.xyz:80/live/Globe/qxi0sjvYJs!@/9398.m3u8
+#EXTINF:-1 tvg-id="OTESportsHighlights.gr" tvg-name="GR:* Cosmote Sport Highlights FHD" tvg-logo="http://kb007.xyz/picons/cosmotesporthighlightshd.png" group-title="VIP | Sports Greece",GR:* Cosmote Sport Highlights FHD
+http://alibaabahateyou7.ddns.net:80/sRVOiJhS3l/q5aBYjJld3/27520
+#EXTINF:-1 tvg-id="OTESport1.gr" tvg-name="GR:* Cosmote Sport 1 FHD" tvg-logo="http://kb007.xyz/picons/cosmotesport1hd.png" group-title="VIP | Sports Greece",GR:* Cosmote Sport 1 FHD
+http://alibaabahateyou7.ddns.net:80/sRVOiJhS3l/q5aBYjJld3/27521
+#EXTINF:-1 tvg-id="OTESport2.gr" tvg-name="GR:* Cosmote Sport 2 FHD" tvg-logo="http://kb007.xyz/picons/cosmotesport2hd.png" group-title="VIP | Sports Greece",GR:* Cosmote Sport 2 FHD
+http://alibaabahateyou7.ddns.net:80/sRVOiJhS3l/q5aBYjJld3/27522
+#EXTINF:-1 tvg-id="OTESport3.gr" tvg-name="GR:* Cosmote Sport 3 FHD" tvg-logo="http://kb007.xyz/picons/cosmotesport3hd.png" group-title="VIP | Sports Greece",GR:* Cosmote Sport 3 FHD
+http://alibaabahateyou7.ddns.net:80/sRVOiJhS3l/q5aBYjJld3/27523
+#EXTINF:-1 tvg-id="OTESport4.gr" tvg-name="GR:* Cosmote Sport 4 FHD" tvg-logo="http://kb007.xyz/picons/cosmotesport4hd.png" group-title="VIP | Sports Greece",GR:* Cosmote Sport 4 FHD
+http://alibaabahateyou7.ddns.net:80/sRVOiJhS3l/q5aBYjJld3/27524
+#EXTINF:-1 tvg-id="OTESport5.gr" tvg-name="GR:* Cosmote Sport 5 FHD" tvg-logo="http://kb007.xyz/picons/cosmotesport5hd.png" group-title="VIP | Sports Greece",GR:* Cosmote Sport 5 FHD
+http://alibaabahateyou7.ddns.net:80/sRVOiJhS3l/q5aBYjJld3/27525
+#EXTINF:-1 tvg-id="OTESport6.gr" tvg-name="GR:* Cosmote Sport 6 FHD" tvg-logo="http://kb007.xyz/picons/cosmotesport6hd.png" group-title="VIP | Sports Greece",GR:* Cosmote Sport 6 FHD
+http://alibaabahateyou7.ddns.net:80/sRVOiJhS3l/q5aBYjJld3/27536
+#EXTINF:-1 tvg-id="OTESport7.gr" tvg-name="GR:* Cosmote Sport 7 FHD" tvg-logo="http://kb007.xyz/picons/cosmotesport7hd.png" group-title="VIP | Sports Greece",GR:* Cosmote Sport 7 FHD
+http://alibaabahateyou7.ddns.net:80/sRVOiJhS3l/q5aBYjJld3/27537
+#EXTINF:-1 tvg-id="OTESport8.gr" tvg-name="GR:* Cosmote Sport 8 FHD" tvg-logo="http://kb007.xyz/picons/cosmotesport8hd.png" group-title="VIP | Sports Greece",GR:* Cosmote Sport 8 FHD
+http://alibaabahateyou7.ddns.net:80/sRVOiJhS3l/q5aBYjJld3/27538
+#EXTINF:-1 tvg-id="cosmotesport9hd.gr" tvg-name="GR:* Cosmote Sport 9 FHD" tvg-logo="http://kb007.xyz/picons/cosmotesport9hd.png" group-title="VIP | Sports Greece",GR:* Cosmote Sport 9 FHD
+http://alibaabahateyou7.ddns.net:80/sRVOiJhS3l/q5aBYjJld3/111721
 
 #EXTINF:0,GR: NOVA SPORT 1 HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/52218
