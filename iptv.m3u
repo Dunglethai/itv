@@ -30,7 +30,7 @@ https://live2onsport.vtvcab.vn/hls/VTV8_HD/sc-gaFEAA/m20_index.m3u8
 https://live2onsport.vtvcab.vn/hls/VTV9_HD/sc-gaFEAA/m20_index.m3u8
 
 
-EXTINF:-1 tvg-id="" tvg-name="GR: Cosmote Sport UHD 4K" tvg-logo="http://kb007.xyz/picons/cosmotetv.png" group-title="VIP | Sports Greece",GR: Cosmote Sport UHD 4K
+EXTINF:-1, Cosmote Sport UHD 4K
 http://alibaabahateyou7.ddns.net:80/sRVOiJhS3l/q5aBYjJld3/319217
 EXTINF:-1 tvg-id="espn.nl" tvg-name="[NL]* ESPN 1 UHD 4K" tvg-logo="http://kb007.xyz/picons/espn.png" group-title="VIP | Sports Netherlands",[NL]* ESPN 1 UHD 4K
 http://alibaabahateyou7.ddns.net:80/sRVOiJhS3l/q5aBYjJld3/316954
