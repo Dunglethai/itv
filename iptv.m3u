@@ -27,8 +27,7 @@ https://live2onsport.vtvcab.vn/hls/VTV8_HD/sc-gaFEAA/m20_index.m3u8
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/SV2FccD/vtv9.png" tvg-chno="9" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV9 HD
 
 https://live2onsport.vtvcab.vn/hls/VTV9_HD/sc-gaFEAA/m20_index.m3u8
-
-EXTINF:0,Cosmote Sport UHD 4K
+#EXTINF:-1 tvg-id="OTESport1.gr" tvg-name="GR:* Cosmote Sport 1 FHD" tvg-logo="http://kb007.xyz/picons/cosmotesport1hd.png" group-title="VIP | Sports Greece",GR:* Cosmote Sport 1 4k
 http://alibaabahateyou7.ddns.net:80/sRVOiJhS3l/q5aBYjJld3/319217
 EXTINF:-1 tvg-id="espn.nl" tvg-name="[NL]* ESPN 1 UHD 4K" tvg-logo="http://kb007.xyz/picons/espn.png" group-title="VIP | Sports Netherlands",[NL]* ESPN 1 UHD 4K
 http://alibaabahateyou7.ddns.net:80/sRVOiJhS3l/q5aBYjJld3/316954
