@@ -25,23 +25,8 @@ https://live2onsport.vtvcab.vn/hls/VTV7_HD/sc-gaFEAA/m20_index.m3u8
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/vsQPSYQ/vtv8.png" tvg-chno="8" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV8 
 https://live2onsport.vtvcab.vn/hls/VTV8_HD/sc-gaFEAA/m20_index.m3u8
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/SV2FccD/vtv9.png" tvg-chno="9" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV9 HD
-
 https://live2onsport.vtvcab.vn/hls/VTV9_HD/sc-gaFEAA/m20_index.m3u8
 
-
-#EXTINF:0, Cosmote Sport 1 4k
-http://alibaabahateyou7.ddns.net:80/sRVOiJhS3l/q5aBYjJld3/319217
-#EXTINF:0,ESPN 1 UHD 4K
-http://alibaabahateyou7.ddns.net:80/sRVOiJhS3l/q5aBYjJld3/316954
-
-
-#EXTINF:0,Eleven Sports 4K UHD
-http://alibaabahateyou7.ddns.net:80/sRVOiJhS3l/q5aBYjJld3/280621
-
-#EXTINF:0,Viasat Sport Ultra 4K UHD
-http://alibaabahateyou7.ddns.net:80/sRVOiJhS3l/q5aBYjJld3/203731
-#EXTINF:0,Astro Supersport 4K UHD
-http://alibaabahateyou7.ddns.net:80/sRVOiJhS3l/q5aBYjJld3/279951
 
 
 
@@ -77,30 +62,51 @@ http://kleineinzeige.com:8080/live/Ciprian-Petrea1/EV7P2jur/38531.m3u8
 
 #EXTINF:-1 group-title="UK Channel" tvg-logo="http://gg.gg/ssmainevent2020kkk",Sky Sports Main Event FHD
 http://ipgurl.xyz:80/live/Globe/qxi0sjvYJs!@/9398.m3u8
-#EXTINF:-1 tvg-id="OTESportsHighlights.gr" tvg-name="GR:* Cosmote Sport Highlights FHD" tvg-logo="http://kb007.xyz/picons/cosmotesporthighlightshd.png" group-title="VIP | Sports Greece",GR:* Cosmote Sport Highlights FHD
-http://alibaabahateyou7.ddns.net:80/sRVOiJhS3l/q5aBYjJld3/27520
-#EXTINF:-1 tvg-id="OTESport1.gr" tvg-name="GR:* Cosmote Sport 1 FHD" tvg-logo="http://kb007.xyz/picons/cosmotesport1hd.png" group-title="VIP | Sports Greece",GR:* Cosmote Sport 1 FHD
-http://alibaabahateyou7.ddns.net:80/sRVOiJhS3l/q5aBYjJld3/27521
-#EXTINF:-1 tvg-id="OTESport2.gr" tvg-name="GR:* Cosmote Sport 2 FHD" tvg-logo="http://kb007.xyz/picons/cosmotesport2hd.png" group-title="VIP | Sports Greece",GR:* Cosmote Sport 2 FHD
-http://alibaabahateyou7.ddns.net:80/sRVOiJhS3l/q5aBYjJld3/27522
-#EXTINF:-1 tvg-id="OTESport3.gr" tvg-name="GR:* Cosmote Sport 3 FHD" tvg-logo="http://kb007.xyz/picons/cosmotesport3hd.png" group-title="VIP | Sports Greece",GR:* Cosmote Sport 3 FHD
-http://alibaabahateyou7.ddns.net:80/sRVOiJhS3l/q5aBYjJld3/27523
-#EXTINF:-1 tvg-id="OTESport4.gr" tvg-name="GR:* Cosmote Sport 4 FHD" tvg-logo="http://kb007.xyz/picons/cosmotesport4hd.png" group-title="VIP | Sports Greece",GR:* Cosmote Sport 4 FHD
-http://alibaabahateyou7.ddns.net:80/sRVOiJhS3l/q5aBYjJld3/27524
-#EXTINF:-1 tvg-id="OTESport5.gr" tvg-name="GR:* Cosmote Sport 5 FHD" tvg-logo="http://kb007.xyz/picons/cosmotesport5hd.png" group-title="VIP | Sports Greece",GR:* Cosmote Sport 5 FHD
-http://alibaabahateyou7.ddns.net:80/sRVOiJhS3l/q5aBYjJld3/27525
-#EXTINF:-1 tvg-id="OTESport6.gr" tvg-name="GR:* Cosmote Sport 6 FHD" tvg-logo="http://kb007.xyz/picons/cosmotesport6hd.png" group-title="VIP | Sports Greece",GR:* Cosmote Sport 6 FHD
-http://alibaabahateyou7.ddns.net:80/sRVOiJhS3l/q5aBYjJld3/27536
-#EXTINF:-1 tvg-id="OTESport7.gr" tvg-name="GR:* Cosmote Sport 7 FHD" tvg-logo="http://kb007.xyz/picons/cosmotesport7hd.png" group-title="VIP | Sports Greece",GR:* Cosmote Sport 7 FHD
-http://alibaabahateyou7.ddns.net:80/sRVOiJhS3l/q5aBYjJld3/27537
-#EXTINF:-1 tvg-id="OTESport8.gr" tvg-name="GR:* Cosmote Sport 8 FHD" tvg-logo="http://kb007.xyz/picons/cosmotesport8hd.png" group-title="VIP | Sports Greece",GR:* Cosmote Sport 8 FHD
-http://alibaabahateyou7.ddns.net:80/sRVOiJhS3l/q5aBYjJld3/27538
-#EXTINF:-1 tvg-id="cosmotesport9hd.gr" tvg-name="GR:* Cosmote Sport 9 FHD" tvg-logo="http://kb007.xyz/picons/cosmotesport9hd.png" group-title="VIP | Sports Greece",GR:* Cosmote Sport 9 FHD
-http://alibaabahateyou7.ddns.net:80/sRVOiJhS3l/q5aBYjJld3/111721
+#EXTINF:-1,BE: Play Sports 1
+http://iptvtree.net:8080/F22230/6e9e8ce0/290539
+#EXTINF:-1,BE: Play Sports 2
+http://iptvtree.net:8080/F22230/6e9e8ce0/47438
+#EXTINF:-1,BE: Play Sports 3
+http://iptvtree.net:8080/F22230/6e9e8ce0/276473
+#EXTINF:-1,BE: Play Sports 4
+http://iptvtree.net:8080/F22230/6e9e8ce0/290525
+#EXTINF:-1,CH: Blue Sport D1 FHD
+http://king-box.club:80/x2H0A5l9702/AFyA8Fm5zO/204881
+#EXTINF:-1,CH: Blue Sport D2 FHD
+http://king-box.club:80/x2H0A5l9702/AFyA8Fm5zO/204879
+#EXTINF:-1,CH: Blue Sport 1 HD
+http://king-box.club:80/x2H0A5l9702/AFyA8Fm5zO/204880
+#EXTINF:-1,CH: Blue Sport 2 HD
+http://king-box.club:80/x2H0A5l9702/AFyA8Fm5zO/204878
+#EXTINF:-1,CH: Blue Sport 3 HD
+http://king-box.club:80/x2H0A5l9702/AFyA8Fm5zO/204877
+#EXTINF:-1,CH: Blue Sport 4 HD
+http://king-box.club:80/x2H0A5l9702/AFyA8Fm5zO/204876
+#EXTINF:-1,CH: Blue Bundesliga FHD
+http://king-box.club:80/x2H0A5l9702/AFyA8Fm5zO/204875
+#EXTINF:-1,CH: Blue Bundesliga
+http://king-box.club:80/x2H0A5l9702/AFyA8Fm5zO/204874
+#EXTINF:-1,DE:* Sky Sport Premier League FHD
+http://king-box.club:80/x2H0A5l9702/AFyA8Fm5zO/279059
+#EXTINF:-1,DE: Sky Sport Top Event FHD
+http://king-box.club:80/x2H0A5l9702/AFyA8Fm5zO/279053
+
+#EXTINF:-1,DE: Dazn 1 4K
+http://ekoplustv.xyz:8080/mert.ahmet.canbaz/12.ocak/393076
+#EXTINF:-1,DE: Dazn 2 4K
+http://ekoplustv.xyz:8080/mert.ahmet.canbaz/12.ocak/393075
+#EXTINF:-1,DE:SKY PL
+http://ekoplustv.xyz:8080/mert.ahmet.canbaz/12.ocak/393853
+
+#EXTINF:-1,ZIGO SPORTS
+http://ekoplustv.xyz:8080/mert.ahmet.canbaz/12.ocak/393077
+#EXTINF:-1, NGA 1
+http://ekoplustv.xyz:8080/mert.ahmet.canbaz/12.ocak/393082
+#EXTINF:-1, NGA 2
+http://ekoplustv.xyz:8080/mert.ahmet.canbaz/12.ocak/393083
 
 #EXTINF:0,GR: NOVA SPORT 1 HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/52218
-
 #EXTINF:0,GR: NOVA SPORT 3 HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/52220
 #EXTINF:0,GR: NOVA SPORT 4 HD
@@ -119,8 +125,6 @@ http://37.49.225.117:8080/3f6d5b2f/156425abb6/124
 http://37.49.225.117:8080/3f6d5b2f/156425abb6/18
 #EXTINF:0,GR: Cosmote Sport 3
 http://37.49.225.117:8080/3f6d5b2f/156425abb6/4269
-
-
 #EXTINF:0,GR: Nova Sports 1
 http://37.49.225.117:8080/3f6d5b2f/156425abb6/12844
 #EXTINF:0,GR: Nova Sports 3
@@ -132,10 +136,7 @@ http://37.49.225.117:8080/3f6d5b2f/156425abb6/45242
 #EXTINF:0,GR: Nova Sports 6
 http://37.49.225.117:8080/3f6d5b2f/156425abb6/291115
 
-#EXTINF:0,CH: Blue Sport 1
-http://37.49.225.117:8080/3f6d5b2f/156425abb6/2815
-#EXTINF:0,CH: Blue Sport 2
-http://37.49.225.117:8080/3f6d5b2f/156425abb6/6187
+
 #EXTINF:0,DE: Sky Sport Premiere League
 http://37.49.225.117:8080/3f6d5b2f/156425abb6/298381
 #EXTINF:0,DE: Sky Sport Top Event
@@ -188,7 +189,6 @@ http://liv3e.click:2095/932366961321/377781417329/348852
 
 #EXTINF:-1,Canal+ Sport 4 FHD PL
 http://liv3e.click:2095/932366961321/377781417329/348853
-
 #EXTINF:-1,Canal+ Sport 5 FHD PL
 http://liv3e.click:2095/932366961321/377781417329/348854
 #EXTINF:-1,Movistar LaLiga FHD
