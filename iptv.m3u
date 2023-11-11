@@ -45,7 +45,10 @@ http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57655.ts
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",Astro Supersport 4 FHD
 http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57656.ts
 
-
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 - MyK+
+http://asia.vthanhtivi.pw/K_SPORT1/index.m3u8?token=1f55e8d012ea0bcebd77ba653871dcf7da2b559a-67239b957df0f8f0f6e1008d87bbc213-1699732182-1699721382
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - MyK+
+http://asia.vthanhtivi.pw/K_SPORT2/index.m3u8?token=80e583fec4f30fe451eb9731e73995935c12f361-0beb5642ddfce9c02a698dec8182950a-1699732182-1699721382
 #EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/footuhdkkk",Canal+ Foot UHD
 http://apbest.re:80/live/18220704922642218/1593574628/75309.ts
 #EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/elevenkkk",Eleven 4K
