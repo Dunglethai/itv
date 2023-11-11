@@ -25,19 +25,14 @@ https://live2onsport.vtvcab.vn/hls/VTV7_HD/sc-gaFEAA/m20_index.m3u8
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/vsQPSYQ/vtv8.png" tvg-chno="8" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV8 
 https://live2onsport.vtvcab.vn/hls/VTV8_HD/sc-gaFEAA/m20_index.m3u8
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/SV2FccD/vtv9.png" tvg-chno="9" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV9 HD
-https://live2onsport.vtvcab.vn/hls/VTV9_HD/sc-gaFEAA/m20_index.m3u8
-
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE - MyK+
-http://asia.vthanhtivi.pw/K_CINE/index.m3u8?token=700be5beb4d674d2bfc55b8a2095465bfd245510-8e831282331ebf18c9523b287a2a17a2-1699531339-1699520539
+http://asia.vthanhtivi.pw/K_CINE/index.m3u8?token=ba0220c000f92859538192f9ea22705296dbe109-60a1a8efa340efbc9a5c92f2f6cd6795-1699731807-1699721007
 #EXTINF:-1 tvg-id="kaction" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ ACTION - MyK+
-http://asia.vthanhtivi.pw/K_ACTION/index.m3u8?token=d7df76a28e4919cc6dbc29e1267ed917902d668f-70a1ba3edceb8382df3ed9b625643297-1699531339-1699520539
+http://asia.vthanhtivi.pw/K_ACTION/index.m3u8?token=b12984d2e3563b0e33569a89dcbf7a8ca4e53c7a-e59b7fd24edc1e7450aab88faf439cf9-1699731807-1699721007
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 - MyK+
-http://asia.vthanhtivi.pw/K_SPORT1/index.m3u8?token=74d90e81b7959e49185bcaffae92287acbf61897-4c5191bba6d7dd490209fbdfc0bc9b34-1699531339-1699520539
+http://asia.vthanhtivi.pw/K_SPORT1/index.m3u8?token=1fd10e4962224f443ea1ddc6756aeb472383e6ba-1987e9f87bd8260556637bdde5972b18-1699731807-1699721007
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - MyK+
-http://asia.vthanhtivi.pw/K_SPORT2/index.m3u8?token=fe8ba87856c0bc323267f89037035ef5131b0336-fc4c52703e339936256de51e5f15c923-1699531339-1699520539
-#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS - MyK+
-http://asia.vthanhtivi.pw/K_KIDS/index.m3u8?token=756f005c06bfc83918195d63f8f1b89cf690d411-6de394b97dbc7e078f8a7a268e077900-1699531339-1699520539
-
+http://asia.vthanhtivi.pw/K_SPORT2/index.m3u8?token=f9e267cd0181537a0f4f0bc72e3952c2a200ed6a-b71de9b81f156d663c03577703513c27-1699731807-1699721007
 
 
 
