@@ -24,17 +24,6 @@ http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
 https://live2onsport.vtvcab.vn/hls/VTV7_HD/sc-gaFEAA/m20_index.m3u8
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/vsQPSYQ/vtv8.png" tvg-chno="8" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV8 
 https://live2onsport.vtvcab.vn/hls/VTV8_HD/sc-gaFEAA/m20_index.m3u8
-#EXTINF:0 tvg-id="vtv9hd" group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/SV2FccD/vtv9.png" tvg-chno="9" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV9 HD
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE - MyK+
-http://asia.vthanhtivi.pw/K_CINE/index.m3u8?token=ba0220c000f92859538192f9ea22705296dbe109-60a1a8efa340efbc9a5c92f2f6cd6795-1699731807-1699721007
-#EXTINF:-1 tvg-id="kaction" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ ACTION - MyK+
-http://asia.vthanhtivi.pw/K_ACTION/index.m3u8?token=b12984d2e3563b0e33569a89dcbf7a8ca4e53c7a-e59b7fd24edc1e7450aab88faf439cf9-1699731807-1699721007
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 - MyK+
-http://asia.vthanhtivi.pw/K_SPORT1/index.m3u8?token=1fd10e4962224f443ea1ddc6756aeb472383e6ba-1987e9f87bd8260556637bdde5972b18-1699731807-1699721007
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - MyK+
-http://asia.vthanhtivi.pw/K_SPORT2/index.m3u8?token=f9e267cd0181537a0f4f0bc72e3952c2a200ed6a-b71de9b81f156d663c03577703513c27-1699731807-1699721007
-#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS - MyK+
-http://asia.vthanhtivi.pw/K_KIDS/index.m3u8?token=7a82326d08befd7511be24ccd5595c6b273a4d6f-28a37c9e42d7e5f83df0f2305e87259e-1699731807-1699721007
 
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",Astro Supersport 1 FHD
 http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57653.ts
@@ -49,6 +38,8 @@ http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57656.ts
 http://asia.vthanhtivi.pw/K_SPORT1/index.m3u8?token=1f55e8d012ea0bcebd77ba653871dcf7da2b559a-67239b957df0f8f0f6e1008d87bbc213-1699732182-1699721382
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - MyK+
 http://asia.vthanhtivi.pw/K_SPORT2/index.m3u8?token=80e583fec4f30fe451eb9731e73995935c12f361-0beb5642ddfce9c02a698dec8182950a-1699732182-1699721382
+
+
 #EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/footuhdkkk",Canal+ Foot UHD
 http://apbest.re:80/live/18220704922642218/1593574628/75309.ts
 #EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/elevenkkk",Eleven 4K
