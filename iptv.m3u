@@ -1,4 +1,4 @@
-#EXTM3U
+P#EXTM3U
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv1logokiptv" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
@@ -33,8 +33,8 @@ http://asia.vthanhtivi.pw/K_ACTION/index.m3u8?token=b12984d2e3563b0e33569a89dcbf
 http://asia.vthanhtivi.pw/K_SPORT1/index.m3u8?token=1fd10e4962224f443ea1ddc6756aeb472383e6ba-1987e9f87bd8260556637bdde5972b18-1699731807-1699721007
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - MyK+
 http://asia.vthanhtivi.pw/K_SPORT2/index.m3u8?token=f9e267cd0181537a0f4f0bc72e3952c2a200ed6a-b71de9b81f156d663c03577703513c27-1699731807-1699721007
-
-
+#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS - MyK+
+http://asia.vthanhtivi.pw/K_KIDS/index.m3u8?token=7a82326d08befd7511be24ccd5595c6b273a4d6f-28a37c9e42d7e5f83df0f2305e87259e-1699731807-1699721007
 
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",Astro Supersport 1 FHD
 http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57653.ts
