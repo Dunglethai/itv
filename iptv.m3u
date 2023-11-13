@@ -24,10 +24,7 @@ http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
 https://live2onsport.vtvcab.vn/hls/VTV7_HD/sc-gaFEAA/m20_index.m3u8
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/vsQPSYQ/vtv8.png" tvg-chno="8" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV8 
 https://live2onsport.vtvcab.vn/hls/VTV8_HD/sc-gaFEAA/m20_index.m3u8
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 - MyK+
-http://asia.vthanhtivi.pw/K_SPORT1/index.m3u8?token=8ee5039b221176862f05b3bedb5df9d4870b5a5f-de86791a42177a650ad3500994f99efe-1699810542-1699799742
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - MyK+
-http://asia.vthanhtivi.pw/K_SPORT2/index.m3u8?token=d4b415855f3317e578cd193bbe21fb12c8f096b8-16f8f68a9fb7d8e3a8b10b0b86e8bbdc-1699810542-1699799742
+
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",Astro Supersport 1 FHD
 http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57653.ts
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",Astro Supersport 2 FHD
@@ -36,47 +33,61 @@ http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57654.ts
 http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57655.ts
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",Astro Supersport 4 FHD
 http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57656.ts
+
+#EXTINF:-1,ASTRO SUPERSPORTS 1 HD TH MY
+http://liv3e.click:2095/932366961321/377781417329/186387
+#EXTINF:-1,ASTRO SUPERSPORTS 2 HD TH MY
+http://liv3e.click:2095/932366961321/377781417329/186388
+#EXTINF:-1,ASTRO SUPERSPORTS 3 HD TH MY
+http://liv3e.click:2095/932366961321/377781417329/186389
+#EXTINF:-1,ASTRO SUPERSPORTS 4 HD TH MY
+http://liv3e.click:2095/932366961321/377781417329/186390
+
+
+
+
+
+#EXTINF:0,DE: Sky Sport Premiere League
+http://37.49.225.117:8080/3f6d5b2f/156425abb6/298381
+#EXTINF:0,DE: Sky Sport Top Event
+http://37.49.225.117:8080/3f6d5b2f/156425abb6/297551
+#EXTINF:0,DE: Sky top event HD
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/54623
+
+
+#EXTINF:-1,DE:Sky Sport PL
+http://liv3e.click:2095/932366961321/377781417329/250303
+#EXTINF:-1,Sky Sport TOP Event 
+http://liv3e.click:2095/932366961321/377781417329/250305
+#EXTINF:-1,Sky Sport TOP Event FHD
+http://liv3e.click:2095/932366961321/377781417329/250306
+
+
+
+
 #EXTINF:-1,NOWSPORT4K
 http://evolved.host:8080/odanismusica@hotmail.com/wqFFmK6v3u/332715
 #EXTINF:-1,NOWSPORT4K
 http://evolved.host:8080/odanismusica@hotmail.com/wqFFmK6v3u/425322
 #EXTINF:-1,NOW SPORT
 http://evolved.host:8080/odanismusica@hotmail.com/wqFFmK6v3u/425332
-#EXTINF:-1,SKY TOP
-http://evolved.host:8080/odanismusica@hotmail.com/wqFFmK6v3u/522205
 #EXTINF:-1,HUB 4K
 http://evolved.host:8080/odanismusica@hotmail.com/wqFFmK6v3u/510623
-
 #EXTINF:-1,Digi 4K
 http://live.nettvroeuroworld.net:8080/Iuliangrigoras/UeEn3dHtAYu5/130855
 #EXTINF:-1,Digi Sport 1 4k
 http://live.nettvroeuroworld.net:8080/Iuliangrigoras/UeEn3dHtAYu5/197215
 #EXTINF:-1,PL: Eleven Sports 4K
 http://live.nettvroeuroworld.net:8080/Iuliangrigoras/UeEn3dHtAYu5/195692
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/cadd4db10d5573ba6f60996347b0aefd.png" group-title="Greece ➾ Sports", Cablenet Sport 1
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/298893
+#EXTINF:-1,Eleven Sport 1 4K
+http://liv3e.click:2095/932366961321/377781417329/180225
+#EXTINF:-1,Eleven Sport 2 4K
+http://liv3e.click:2095/932366961321/377781417329/180226
+#EXTINF:-1,Eleven Sport 3 4K
+http://liv3e.click:2095/932366961321/377781417329/180227
+#EXTINF:-1,Eleven Sport 4 4K
+http://liv3e.click:2095/932366961321/377781417329/180228
 
-#EXTINF:0,DE: Sky Sport Premiere League
-http://37.49.225.117:8080/3f6d5b2f/156425abb6/298381
-#EXTINF:0,DE: Sky Sport Top Event
-http://37.49.225.117:8080/3f6d5b2f/156425abb6/297551
-
-#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/footuhdkkk",Canal+ Foot UHD
-http://apbest.re:80/live/18220704922642218/1593574628/75309.ts
-#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/elevenkkk",Eleven 4K
-http://apbest.re:80/live/18220704922642218/1593574628/99164.ts
-#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/digisport1kkk",Digi Sports 1
-http://kleineinzeige.com:8080/live/Ciprian-Petrea1/EV7P2jur/38531.m3u8
-
-#EXTINF:-1 group-title="UK Channel" tvg-logo="http://gg.gg/ssmainevent2020kkk",Sky Sports Main Event FHD
-http://ipgurl.xyz:80/live/Globe/qxi0sjvYJs!@/9398.m3u8
-
-#EXTINF:-1,Sky Sport Premier League HD
-http://liv3e.click:2095/932366961321/377781417329/250303
-#EXTINF:-1,Sky Sport TOP Event 
-http://liv3e.click:2095/932366961321/377781417329/250305
-#EXTINF:-1,Sky Sport TOP Event FHD
-http://liv3e.click:2095/932366961321/377781417329/250306
 
 #EXTINF:0,GR: NOVA SPORT 1 HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/52218
@@ -84,14 +95,6 @@ http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/52218
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/52220
 #EXTINF:0,GR: NOVA SPORT 4 HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/52221
-#EXTINF:0,GR: Nova SPORT 6 HD
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/52222
-#EXTINF:0,GR: Sky top event HD
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/54623
-#EXTINF:0,GR: SkySPORT MAN HD
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/4699
-#EXTINF:0,GR: SkySPORT PL HD
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/4701
 #EXTINF:0,GR: Cosmote Sport 1
 http://37.49.225.117:8080/3f6d5b2f/156425abb6/124
 #EXTINF:0,GR: Cosmote Sport 2
@@ -108,87 +111,14 @@ http://37.49.225.117:8080/3f6d5b2f/156425abb6/279631
 http://37.49.225.117:8080/3f6d5b2f/156425abb6/45242
 #EXTINF:0,GR: Nova Sports 6
 http://37.49.225.117:8080/3f6d5b2f/156425abb6/291115
-
-
-
-#EXTINF:-1,Eleven Sport 1 4K
-http://liv3e.click:2095/932366961321/377781417329/180225
-#EXTINF:-1,Eleven Sport 2 4K
-http://liv3e.click:2095/932366961321/377781417329/180226
-#EXTINF:-1,Eleven Sport 3 4K
-http://liv3e.click:2095/932366961321/377781417329/180227
-#EXTINF:-1,Eleven Sport 4 4K
-http://liv3e.click:2095/932366961321/377781417329/180228
-#EXTINF:-1,FOOT+ 4K UHD/HDR.
-http://liv3e.click:2095/932366961321/377781417329/310429
-#EXTINF:-1,RMC SPORT 1 4K UHD/HDR.
-http://liv3e.click:2095/932366961321/377781417329/100069
-#EXTINF:-1,FRANCE TV SPORT 4K
-http://liv3e.click:2095/932366961321/377781417329/151283
-
-#EXTINF:-1,Sky Sport 1 FHD
-http://liv3e.click:2095/932366961321/377781417329/67237
-#EXTINF:-1,V Sport Ultra 4K SE [Only On 4K Devices]
-http://liv3e.click:2095/932366961321/377781417329/317598
-#EXTINF:-1,beIN SPORTS 1 FHD TR
-http://liv3e.click:2095/932366961321/377781417329/330766
-#EXTINF:-1,beIN SPORTS 1 FHD TR
-http://liv3e.click:2095/932366961321/377781417329/330764
-#EXTINF:-1,beIN SPORTS 1 FHD TR (Yedek)
-http://liv3e.click:2095/932366961321/377781417329/330765
-#EXTINF:-1,beIN SPORTS 1 HD TR
-http://liv3e.click:2095/932366961321/377781417329/330762
-#EXTINF:-1,beIN SPORTS 1 HD TR (Yedek)
-http://liv3e.click:2095/932366961321/377781417329/330763
-#EXTINF:-1,beIN SPORTS 1 TR
-http://liv3e.click:2095/932366961321/377781417329/330761
-#EXTINF:-1,Canal+ Sport FHD PL
-http://liv3e.click:2095/932366961321/377781417329/180763
-#EXTINF:-1,Canal+ Sport FHD PL
-http://liv3e.click:2095/932366961321/377781417329/348850
-#EXTINF:-1,Canal+ Sport 2 FHD PL
-http://liv3e.click:2095/932366961321/377781417329/348851
-
-#EXTINF:-1,Canal+ Sport 3 FHD PL
-http://liv3e.click:2095/932366961321/377781417329/348852
-
-#EXTINF:-1,Canal+ Sport 4 FHD PL
-http://liv3e.click:2095/932366961321/377781417329/348853
-#EXTINF:-1,Canal+ Sport 5 FHD PL
-http://liv3e.click:2095/932366961321/377781417329/348854
-#EXTINF:-1,Movistar LaLiga FHD
-http://liv3e.click:2095/932366961321/377781417329/214603
-#EXTINF:-1,Movistar LaLiga 1 FHD
-http://liv3e.click:2095/932366961321/377781417329/214605
-#EXTINF:-1,Movistar LaLigaTV FHD
-http://liv3e.click:2095/932366961321/377781417329/214606
-#EXTINF:-1,Eleven Sports 1 HD VIP PT
-http://liv3e.click:2095/932366961321/377781417329/71202
-#EXTINF:-1,Eleven Sports 2 FHD VIP PT
-http://liv3e.click:2095/932366961321/377781417329/71206
-
-#EXTINF:-1,Eleven Sports 3 HD VIP PT
-http://liv3e.click:2095/932366961321/377781417329/71208
-#EXTINF:-1,Eleven Sports 4 FHD VIP 
-#EXTINF:-1,Nova Sport 2 HD GR
+#EXTINF:-1,Nova Sport 2 
 http://liv3e.click:2095/932366961321/377781417329/85260
-#EXTINF:-1,Nova Sport 3 HD GR
+#EXTINF:-1,Nova Sport 3 
 http://liv3e.click:2095/932366961321/377781417329/85259
-#EXTINF:-1,Nova Sport 4 HD GR
+#EXTINF:-1,Nova Sport 4 
 http://liv3e.click:2095/932366961321/377781417329/85258
-#EXTINF:-1,Nova Sport 5 HD GR
+#EXTINF:-1,Nova Sport 5
 http://liv3e.click:2095/932366961321/377781417329/85257
-#EXTINF:-1,ASTRO SUPERSPORTS 4 HD TH MY
-http://liv3e.click:2095/932366961321/377781417329/186390
-#EXTINF:-1,ASTRO SUPERSPORTS 3 HD TH MY
-http://liv3e.click:2095/932366961321/377781417329/186389
-#EXTINF:-1,ASTRO SUPERSPORTS 2 HD TH MY
-http://liv3e.click:2095/932366961321/377781417329/186388
-#EXTINF:-1,ASTRO SUPERSPORTS 1 HD TH MY
-http://liv3e.click:2095/932366961321/377781417329/186387
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/7afce1bdfed6ea6c0c609a6dc9f98b99.png" group-title="Greece ➾ Sports", Cablenet Sport 2
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/298892
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/a37f9781be1a55a7c5f8763c8b6a38a9.png" group-title="Greece ➾ Sports", Cosmote Sport 1
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/124
@@ -217,35 +147,6 @@ http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/127
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/620809e2c99f5c7cd17dfb954008b053.jpg" group-title="Greece ➾ Sports", Cosmote Sport 9
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/121356
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/85e53287a02631f8b42f621e2778d74c.jpg" group-title="Greece ➾ Sports", Cytavision Sports 1
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/298887
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/92d52b50694bfeb08d55fe85c3c4c3b0.jpg" group-title="Greece ➾ Sports", Cytavision Sports 2
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/298886
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/ac9c7fbc8efc78b9583aa7ca24419761.jpg" group-title="Greece ➾ Sports", Cytavision Sports 3
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/298885
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/7726cc9068dc70b29be1ea38b6b6449a.jpg" group-title="Greece ➾ Sports", Cytavision Sports 4
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/298888
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/0a02c6324173e3a9ac8da3eda527d82e.jpg" group-title="Greece ➾ Sports", Cytavision Sports 5
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/300051
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/dfb7db293fe59a459b5a6e6a657eb870.jpg" group-title="Greece ➾ Sports", Cytavision Sports 7
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/300052
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/230ff323daf0495826d6f8f8e93470a8.png" group-title="Greece ➾ Sports", ERT Sports 3
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/290658
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/fa9bfd4b4224f9f2ed97c5d3b01c50ec.png" group-title="Greece ➾ Sports", ERT Sports 4
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/298613
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/76dfe401eac1e58160dde438691d1d4a.png" group-title="Greece ➾ Sports", EUROSPORT 1
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/138
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/eead215977c00f89242f31aeb35f44eb.png" group-title="Greece ➾ Sports", EUROSPORT 2
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/139
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/12581690330415a663693dfe66758ece.png" group-title="Greece ➾ Sports", Nova Sports 1
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/12844
@@ -265,23 +166,5 @@ http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/45242
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/ab2ac576d70e951c273f2ae217bdecfb.png" group-title="Greece ➾ Sports", Nova Sports 6
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/291115
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/b30526ae40be894bebdcc96ed688f953.jpg" group-title="Greece ➾ Sports", Nova Sports Extra 1
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/300073
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/7d23df028fdcb533c7112f7a8b585c17.jpg" group-title="Greece ➾ Sports", Nova Sports Extra 2
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/300074
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/498be0ff0ae30280b75cd17c289288ee.jpg" group-title="Greece ➾ Sports", Nova Sports Extra 3
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/300075
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/33b9bd3f9c5e37dda2af343b2c815146.jpg" group-title="Greece ➾ Sports", Nova Sports Extra 4
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/300076
-
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/051199229973ae41c76fc4e3937bd1ba.jpg" group-title="Greece ➾ Sports", Nova Sports Premier League
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/298889
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/b077cb697a08826900534fb326ab38cf.png" group-title="Greece ➾ Sports", Nova sports Prime
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/291116
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/de6669a9f7c29b7deeba613d4001d986.png" group-title="Greece ➾ Sports", Nova Sports Start
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/295161
