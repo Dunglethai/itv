@@ -25,6 +25,18 @@ https://live2onsport.vtvcab.vn/hls/VTV7_HD/sc-gaFEAA/m20_index.m3u8
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/vsQPSYQ/vtv8.png" tvg-chno="8" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV8 
 https://live2onsport.vtvcab.vn/hls/VTV8_HD/sc-gaFEAA/m20_index.m3u8
 
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE - MyK+
+http://cdn.vthanhtivi.pw/K_CINE/index.m3u8?token=06fbb3966ff9dd8a08d0744d1c3625a40f8bd908-fe4315f7ce5dfb57bc26fb72cad17c32-1700479554-1700468754
+#EXTINF:-1 tvg-id="kaction" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ ACTION - MyK+
+http://cdn.vthanhtivi.pw/K_ACTION/index.m3u8?token=9c27fc2c2fd9032c2544a4c150379a2051b025c8-3f58eb056967dc131db16cf113de271d-1700479554-1700468754
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 - MyK+
+http://cdn.vthanhtivi.pw/K_SPORT1/index.m3u8?token=9490fe0395b3a10eb3f2b8b5ace1e56533503410-86467bf20507a73897a5696eba892327-1700479554-1700468754
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - MyK+
+http://cdn.vthanhtivi.pw/K_SPORT2/index.m3u8?token=056065df34c52a76d1c7394e72f211f102a16687-23e52a32368dff1ba06106f05a1f260d-1700479554-1700468754
+#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS - MyK+
+http://cdn.vthanhtivi.pw/K_KIDS/index.m3u8?token=9387eebf0622f399f353424badca4c017a41507e-81a754278a4a1310643a3393f334239d-1700479554-1700468754
+
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",SkySportsMainEvent
 https://7pal.short.gy/SSMEuhd
 #EXTINF:-1 tvg-id="Astro.SuperSport.UHD.1.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-title="Sports",AstroSuperSport
