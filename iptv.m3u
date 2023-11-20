@@ -25,40 +25,26 @@ https://live2onsport.vtvcab.vn/hls/VTV7_HD/sc-gaFEAA/m20_index.m3u8
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/vsQPSYQ/vtv8.png" tvg-chno="8" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV8 
 https://live2onsport.vtvcab.vn/hls/VTV8_HD/sc-gaFEAA/m20_index.m3u8
 
+#EXTINF:-1 group-title="Canal+ Ba Lan" tvg-id="canalsp1" tvg-logo="https://n-4-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66245.png",Canal+ Sport 1
+http://stream.cvmtv.site/canal1?token=live
+#EXTINF:-1 group-title="Canal+ Ba Lan" tvg-id="canalsp2" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_66249.png",Canal+ Sport 2
+http://stream.cvmtv.site/canal2?token=live
+#EXTINF:-1 group-title="Canal+ Ba Lan" tvg-id="canalsp5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/CANAL%2B_Sport_5.png",Canal+ Sport 5
+http://stream.cvmtv.site/canal5?token=live
+#EXTINF:-1 group-title="Canal+ Ba Lan" tvg-id="canalpre" tvg-logo="https://r.dcs.redcdn.pl/http/o2/n/edytorEPG/logo/logotype_815958.png",Canal+ Premium
+http://stream.cvmtv.site/canalpre?token=live
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE - MyK+
-http://cdn.vthanhtivi.pw/K_CINE/index.m3u8?token=06fbb3966ff9dd8a08d0744d1c3625a40f8bd908-fe4315f7ce5dfb57bc26fb72cad17c32-1700479554-1700468754
-#EXTINF:-1 tvg-id="kaction" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ ACTION - MyK+
-http://cdn.vthanhtivi.pw/K_ACTION/index.m3u8?token=9c27fc2c2fd9032c2544a4c150379a2051b025c8-3f58eb056967dc131db16cf113de271d-1700479554-1700468754
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 - MyK+
-http://cdn.vthanhtivi.pw/K_SPORT1/index.m3u8?token=9490fe0395b3a10eb3f2b8b5ace1e56533503410-86467bf20507a73897a5696eba892327-1700479554-1700468754
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - MyK+
-http://cdn.vthanhtivi.pw/K_SPORT2/index.m3u8?token=056065df34c52a76d1c7394e72f211f102a16687-23e52a32368dff1ba06106f05a1f260d-1700479554-1700468754
-#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS - MyK+
-http://cdn.vthanhtivi.pw/K_KIDS/index.m3u8?token=9387eebf0622f399f353424badca4c017a41507e-81a754278a4a1310643a3393f334239d-1700479554-1700468754
+#EXTINF:-1 group-title="Eleven Sports - Ba Lan" tvg-id="eleven1" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391293.png",Eleven Sports 1
+http://stream.cvmtv.site/E1?token=live
+#EXTINF:-1 group-title="Eleven Sports - Ba Lan" tvg-id="eleven2" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391296.png",Eleven Sports 2
+http://stream.cvmtv.site/E2?token=live
+#EXTINF:-1 group-title="Eleven Sports - Ba Lan" tvg-id="eleven3" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391299.png",Eleven Sports 3
+http://stream.cvmtv.site/E3?token=live
+#EXTINF:-1 group-title="Eleven Sports - Ba Lan" tvg-id="eleven4" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391302.png",Eleven Sports 4
+http://stream.cvmtv.site/E4?token=live
 
-#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",SkySportsMainEvent
-https://7pal.short.gy/SSMEuhd
-#EXTINF:-1 tvg-id="Astro.SuperSport.UHD.1.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-title="Sports",AstroSuperSport
-https://7pal.short.gy/astrouhd
-#EXTINF:-1 tvg-id="4k_DIGITAL_Mono_EN.bein" tvg-logo="https://www.universfreebox.com/wp-content/uploads/2022/11/beinsport4k-800x450-c-default.jpg" group-title="Sports",beIN
-https://7pal.short.gy/bein-uhd
-#EXTINF:-1 tvg-id="English.-.Now.Sports.4K.1.hk" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_170_122" group-title="Sports",NowSports
-https://7pal.short.gy/nowsport4k
-#EXTINF:-1 tvg-id="Hub.Premier.2.(HD).sg" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="Sports",HUBPremier2
-https://7pal.short.gy/HubP2uhd
-#EXTINF:-1 tvg-id="V.sport.ULTRA.HD.fi" tvg-logo="https://i.imgur.com/J2dnfBZ.png" group-title="Sports",V SportUltraHD
-https://7pal.short.gy/VSportUHD
-#EXTINF:-1 tvg-id="BT.Sport.Ultimate.uk" tvg-logo="https://media.info/l/o/5/5824.1689874022.png" group-title="Sports",TNTSportUltimate
-https://7pal.short.gy/TNTUltimate
-#EXTINF:-1 tvg-id="Digi.4K.ro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg" group-title="Sports",Digi
-https://7pal.short.gy/digi4k
-#EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://broccoli.tvchannellists.com/images/f/f9/Eleven_Sports_1.png" group-title="Sports",ElevenSport1
-https://7pal.short.gy/11sports1
-#EXTINF:-1 tvg-id="5SPORT.4K.[Sport.5.4K].il" tvg-logo="https://i.imgur.com/EPIy6eZ.png" group-title="Sports",5Sport
-https://7pal.short.gy/5sport
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="Sports",SkySportsF1
-https://7pal.short.gy/SSF1uhd
+#EXTINF:-1 group-title="Match - Nga" tvg-id="match" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/130.jpg",Match TV
+http://stream.cvmtv.site/Match?token=live
 #EXTINF:-1 group-title="Match - Nga" tvg-id="mf1" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/8.jpg",Match Futbol 1
 http://stream.cvmtv.site/MF1?token=live
 #EXTINF:-1 group-title="Match - Nga" tvg-id="mf2" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/14.jpg",Match Futbol 2
@@ -67,7 +53,11 @@ http://stream.cvmtv.site/MF2?token=live
 http://stream.cvmtv.site/MF3?token=live
 #EXTINF:-1 group-title="Match - Nga" tvg-id="matchpre" tvg-logo="https://new.matchtv.ru/assets/202308281003/images/channels/7.jpg",Match Premier
 http://stream.cvmtv.site/MPre?token=live
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",SkySportsMainEvent
+https://7pal.short.gy/SSMEuhd
 
+#EXTINF:-1 tvg-id="Hub.Premier.2.(HD).sg" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="Sports",HUBPremier2
+https://7pal.short.gy/HubP2uhd
 
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",Astro Supersport 1 FHD
 http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57653.ts
