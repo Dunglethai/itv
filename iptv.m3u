@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:0,sctv9
+http://live.vthanhtivi.pw/sctv9
 	
 #EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
 https://code.vthanhtivi.pw/getlink/mi/WVig8BjZ-eeFhZKop2XYkQ/1700588734/210/playlist.m3u8
