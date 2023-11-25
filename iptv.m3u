@@ -1,6 +1,34 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE - MyK+
+http://giaima.vthanhtivi.pw/K_CINE/index.m3u8?token=f0774a1acb9ed468f2c1b2c0fb124491f07683eb-8cfed6fc7c6b62413ebf61c6d2f7d548-1700937379-1700926579
+#EXTINF:-1 tvg-id="kaction" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ ACTION - MyK+
+http://giaima.vthanhtivi.pw/K_ACTION/index.m3u8?token=cd1adf9ccf16693cdde2fc8db8873932416c3bde-878478eaa8d61be7497f3a4190979930-1700937379-1700926579
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 - MyK+
+http://giaima.vthanhtivi.pw/K_SPORT1/index.m3u8?token=eb87f04197ce954b8a5462bfefcb263d4d493a11-9d4c79ba2f1033d351788bc16aec86b9-1700937379-1700926579
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - MyK+
+http://giaima.vthanhtivi.pw/K_SPORT2/index.m3u8?token=5d7147da97bda03654d60335b91f460343304fec-502fa4702c01ff3fc1b258b1a320d7d4-1700937379-1700926579
+#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS - MyK+
+http://giaima.vthanhtivi.pw/K_KIDS/index.m3u8?token=0f8003f77ae385bea3077b2c59e5510d34337857-6c2c387bea5191870e1cef7e3ff8fac4-1700937379-1700926579
+#EXTINF:-1 tvg-id="" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg", K+ LIVE 1
+
+#EXTINF:-1 tvg-id="" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/043_K_LIVE2_landscape.jpg", K+ LIVE 2
+
+#EXTINF:-1 tvg-id="" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/044_K_LIVE3_landscape.jpg", K+ LIVE 3
+
+#EXTINF:-1 tvg-id="" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/SPORT1.jpg", SỰ KIỆN THỂ THAO 1
+http://giaima.vthanhtivi.pw/SKTT1/index.m3u8?token=0ce0eac8a7c65ba627b235df38e12e6956751f18-3f3f24b6f98c760f21b56afa83133525-1700937379-1700926579
+#EXTINF:-1 tvg-id="" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/SPORT1.jpg", SỰ KIỆN THỂ THAO 2
+http://giaima.vthanhtivi.pw/SKTT2/index.m3u8?token=43c600569c92e63a479238f597acfa3b6ddbdf7a-a9b7d57f41dd8693cd0f86a810a7b4a1-1700937379-1700926579
+#EXTINF:-1 tvg-id="" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/SPORT1.jpg", SỰ KIỆN THỂ THAO 3
+http://giaima.vthanhtivi.pw/SKTT3/index.m3u8?token=7f98260dc025b461cd762e8f227f3aea5990cd2c-16d84cdc8e2ae45732fe4894e8a40197-1700937379-1700926579
+#EXTINF:-1 tvg-id="" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/SPORT1.jpg", SỰ KIỆN THỂ THAO 4
+http://giaima.vthanhtivi.pw/SKTT4/index.m3u8?token=aa46d824f77e677e780e4596853e75a2179ea7a8-80b542b983fdf94e0fde3dcf241214a6-1700937379-1700926579
+#EXTINF:-1 tvg-id="" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/SPORT1.jpg", SỰ KIỆN THỂ THAO 5
+http://giaima.vthanhtivi.pw/SKTT5/index.m3u8?token=57ac6fb9ca9a24f6881ef2e63c39971fe2eee284-2f9f67fc26c6eb214daa9f08154135aa-1700937379-1700926579
+#EXTINF:-1 tvg-id="" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/SPORT1.jpg", SỰ KIỆN THỂ THAO 6
+
 
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE - MyK+
