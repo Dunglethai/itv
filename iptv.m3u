@@ -1,10 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 - MyK+
-http://giaima.vthanhtivi.pw/K_SPORT1/index.m3u8?token=cd5bc081f97558480992a18f85e32e3c7729acc5-0920dd65bc4897c0ad8ac5c3e424809e-1701013329-1701002529
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - MyK+
-http://giaima.vthanhtivi.pw/K_SPORT2/index.m3u8?token=7b683bd14fb58fc323f7a217d21ed6dd87c1f691-0c8e4a12b05c7a44d1316af6a949ce44-1701013329-1701002529
-
 #EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
 https://code.vthanhtivi.pw/getlink/mi/WVig8BjZ-eeFhZKop2XYkQ/1700588734/210/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2
@@ -13,40 +8,16 @@ https://code.vthanhtivi.pw/getlink/tv360/oWeZIHwueGLJBwv0MANAXg/1700588734/3/pla
 https://code.vthanhtivi.pw/getlink/mi/CIWZxYRinW1K9-_Dq_H1uQ/1700588734/211/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png", VTV4
 https://code.vthanhtivi.pw/getlink/tv360/uNe_XNs9yI0bwF0kYGEBUw/1700588734/108/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
-https://liveh12.vtvcab.vn/hls/ONVTV5_CL/04.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5
 https://liveh12.vtvcab.vn/hls/ONVTV5TNB_CL/04.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
-https://code.vthanhtivi.pw/getlink/tv360/Q6FEtOn7Gul27Y2ujyu3bQ/1700588734/207/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png", VTV7
 https://code.vthanhtivi.pw/getlink/tv360/7XZAPWhWyLNHeszWipViEQ/1700588734/6/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png", VTV8
 https://code.vthanhtivi.pw/getlink/tv360/STVAoBp2jyiTIbnDWYMO1Q/1700588734/115/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png", VTV9
 https://code.vthanhtivi.pw/getlink/tv360/2NNYVe-Zwpej0sBmekqBzQ/1700588734/8/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
+#EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTVCT
 https://code.vthanhtivi.pw/getlink/mi/vZgVNOHJ6PihEx7BQXRFEQ/1700588734/212/playlist.m3u8
-
-#EXTINF:0,Star Sports Select 1
-http://stream.cvmtv.site/StarSL1?token=live
-#EXTINF:-1 group-title="Canal+ Ba Lan" tvg-id="canalsp1" tvg-logo="https://n-4-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66245.png",Canal+ Sport 1
-http://stream.cvmtv.site/canal1?token=live
-#EXTINF:-1 group-title="Canal+ Ba Lan" tvg-id="canalsp2" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_66249.png",Canal+ Sport 2
-http://stream.cvmtv.site/canal2?token=live
-#EXTINF:-1 group-title="Canal+ Ba Lan" tvg-id="canalsp5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/CANAL%2B_Sport_5.png",Canal+ Sport 5
-http://stream.cvmtv.site/canal5?token=live
-#EXTINF:-1 group-title="Canal+ Ba Lan" tvg-id="canalpre" tvg-logo="https://r.dcs.redcdn.pl/http/o2/n/edytorEPG/logo/logotype_815958.png",Canal+ Premium
-http://stream.cvmtv.site/canalpre?token=live
-
-#EXTINF:-1 group-title="Eleven Sports - Ba Lan" tvg-id="eleven1" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391293.png",Eleven Sports 1
-http://stream.cvmtv.site/E1?token=live
-#EXTINF:-1 group-title="Eleven Sports - Ba Lan" tvg-id="eleven2" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391296.png",Eleven Sports 2
-http://stream.cvmtv.site/E2?token=live
-#EXTINF:-1 group-title="Eleven Sports - Ba Lan" tvg-id="eleven3" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391299.png",Eleven Sports 3
-http://stream.cvmtv.site/E3?token=live
-#EXTINF:-1 group-title="Eleven Sports - Ba Lan" tvg-id="eleven4" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391302.png",Eleven Sports 4
-http://stream.cvmtv.site/E4?token=live
 
 #EXTINF:-1 group-title="Match - Nga" tvg-id="match" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/130.jpg",Match TV
 http://stream.cvmtv.site/Match?token=live
@@ -72,6 +43,22 @@ http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57654.ts
 http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57655.ts
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",Astro Supersport 4 FHD
 http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57656.ts
+#EXTINF:0,W SPORT
+http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57653.ts
+
+#EXTINF:0,SPORTTV
+http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57663.ts
+
+#EXTINF:0,TSN 1
+http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57666.ts
+#EXTINF:0,TSN 2
+http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57667.ts
+#EXTINF:0,TSN 3
+http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57668.ts
+#EXTINF:0,TSN 4
+http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57669.ts
+#EXTINF:0,TSN 5
+http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57670.ts
 
 #EXTINF:0,DE: Sky top event HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/54623
@@ -83,15 +70,6 @@ http://liv3e.click:2095/932366961321/377781417329/250305
 http://liv3e.click:2095/932366961321/377781417329/250306
 
 
-
-#EXTINF:-1,GR: Cosmote Sport UHD 4K
-http://anonymoustv.club:80/RYzqhnwOqG/cyBjcFft6x/319217
-#EXTINF:-1,HK: Now Premier Sports 1 FHD
-http://anonymoustv.club:80/RYzqhnwOqG/cyBjcFft6x/200230
-#EXTINF:-1,DE: Sky Sport Top Event FHD
-http://anonymoustv.club:80/RYzqhnwOqG/cyBjcFft6x/279053
-#EXTINF:-1,DE:* Sky Sport Premier League FHD
-http://anonymoustv.club:80/RYzqhnwOqG/cyBjcFft6x/279059
 
 #EXTINF:-1,NOWSPORT4K
 http://evolved.host:8080/odanismusica@hotmail.com/wqFFmK6v3u/332715
@@ -147,52 +125,3 @@ http://liv3e.click:2095/932366961321/377781417329/85259
 http://liv3e.click:2095/932366961321/377781417329/85258
 #EXTINF:-1,Nova Sport 5
 http://liv3e.click:2095/932366961321/377781417329/85257
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/a37f9781be1a55a7c5f8763c8b6a38a9.png" group-title="Greece ➾ Sports", Cosmote Sport 1
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/124
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/b51dc4246f87ba3e9a9265af0dae31a8.png" group-title="Greece ➾ Sports", Cosmote Sport 2
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/18
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/94efcc671a18ace7e698c8006c78a400.png" group-title="Greece ➾ Sports", Cosmote Sport 3
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/4269
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/7e80e4709cd888c8f0e16301db38a0aa.png" group-title="Greece ➾ Sports", Cosmote Sport 4
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/125
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/d3def5f35a86a67dd93e41403a5fc441.png" group-title="Greece ➾ Sports", Cosmote Sport 5
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/4271
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/f96731be87dde35f0f1a9908d5e6fbc1.jpg" group-title="Greece ➾ Sports", Cosmote Sport 6
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/4272
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/05c99205230c13929e2435d8932e1312.png" group-title="Greece ➾ Sports", Cosmote Sport 7
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/126
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/cbbf8bdd8c51923d2c692ab2b0d58579.jpg" group-title="Greece ➾ Sports", Cosmote Sport 8
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/127
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/620809e2c99f5c7cd17dfb954008b053.jpg" group-title="Greece ➾ Sports", Cosmote Sport 9
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/121356
-
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/12581690330415a663693dfe66758ece.png" group-title="Greece ➾ Sports", Nova Sports 1
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/12844
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/03a44b801b5e31cc76fc5006df862ff3.svg" group-title="Greece ➾ Sports", Nova sports 2
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/12845
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/db84e4cab49518a4671bad903a694117.png" group-title="Greece ➾ Sports", Nova Sports 3
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/12846
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/8ecc003e88923bf810aa95e20deb8ce0.png" group-title="Greece ➾ Sports", Nova Sports 4
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/279631
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/38563dfe8e994c67749cc07d3d0df9a1.png" group-title="Greece ➾ Sports", Nova Sports 5
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/45242
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/ab2ac576d70e951c273f2ae217bdecfb.png" group-title="Greece ➾ Sports", Nova Sports 6
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/291115
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/051199229973ae41c76fc4e3937bd1ba.jpg" group-title="Greece ➾ Sports", Nova Sports Premier League
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/298889
