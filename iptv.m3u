@@ -32,16 +32,7 @@ http://giaima.vthanhtivi.pw/K_SPORT1/index.m3u8?token=f7b63bb795485df92504aff72b
 http://giaima.vthanhtivi.pw/K_SPORT2/index.m3u8?token=5cb4360cd95cc8c9ffc048a0e450df570d2101cb-a05399190c74dd2a53f36be3aba9fb21-1701101273-1701090473
 #EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS - MyK+
 http://giaima.vthanhtivi.pw/K_KIDS/index.m3u8?token=a279bc24415b83cc828147096f4b52fd80a8d500-0d6b3e31c5fc9aaffd81ad03f63b9df7-1701101273-1701090473
-#EXTINF:-1 group-title="Match - Nga" tvg-id="match" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/130.jpg",Match TV
-http://stream.cvmtv.site/Match?token=live
-#EXTINF:-1 group-title="Match - Nga" tvg-id="mf1" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/8.jpg",Match Futbol 1
-http://stream.cvmtv.site/MF1?token=live
-#EXTINF:-1 group-title="Match - Nga" tvg-id="mf2" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/14.jpg",Match Futbol 2
-http://stream.cvmtv.site/MF2?token=live
-#EXTINF:-1 group-title="Match - Nga" tvg-id="mf3" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/140.jpg",Match Futbol 3
-http://stream.cvmtv.site/MF3?token=live
-#EXTINF:-1 group-title="Match - Nga" tvg-id="matchpre" tvg-logo="https://new.matchtv.ru/assets/202308281003/images/channels/7.jpg",Match Premier
-http://stream.cvmtv.site/MPre?token=live
+
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",SkySportsMainEvent
 https://7pal.short.gy/SSMEuhd
 
@@ -56,7 +47,7 @@ http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57654.ts
 http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57655.ts
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",Astro Supersport 4 FHD
 http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57656.ts
-#EXTINF:0,W SPORT
+#EXTINF:0,astro sports
 http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57653.ts
 #EXTINF:0,sky sport 1
 http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/59588.ts
