@@ -25,6 +25,42 @@ https://code.vthanhtivi.pw/getlink/mi/vuOrrVAvaXZ_4JlphpEYEQ/1701101273/212/play
 #EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1080x720,AUDIO="audiod"
 https:///e1.endpoint.cdn.sctvonline.vn/channel/sctv9.m3u8|Referer=http://sctvonline.vn/
 #http://vtsstr4.sctv.vn:1935/live/SCTV_HD_PhimChauA_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="vtv1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo_VTV1_HD.png" group-title="VIETNAM",VTV1 FHD
+acestream://8c805a9d2f9d4cc0fe25bf8bfe5a5b98591ce377
+#EXTINF:-1 tvg-id="vtv5tnb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Vtv5tnb_logo.svg/1200px-Vtv5tnb_logo.svg.png" group-title="VIETNAM",VTV5 TNB FHD
+acestream://3cabf00d12e1eee41101e06164b6852f19c91124
+#EXTINF:-1 tvg-id="vtv6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png" group-title="VIETNAM",VTV CAN THO HD1
+acestream://7b67226d1ce6c66d1e61c7e192f5c987e278b39f
+#EXTINF:-1 tvg-id="vtv6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png" group-title="VIETNAM",VTV CAN THO HD2
+acestream://85479a5a19838f38a99ee6ab8bc3c3d72077c2ed
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="VIETNAM",CHANNEL NEWS ASIA
+acestream://7475d26006421a3e63da3f3bb8c6d22669a4e1ea
+#EXTINF:-1 tvg-id="ftv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Fashion_tv_hd.png" group-title="VIETNAM",FASHION HD
+acestream://1e9eae64ae1705b4c5b9feed28db9dfca88361f1
+#EXTINF:-1 tvg-id="antv" tvg-logo="https://mytv.com.vn/upload/channel/35.png" group-title="VIETNAM",ANTV
+acestream://2ba398b25fbee0e1e530ba925957967d3eff947e
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/71.png" group-title="VIETNAM",QUOC HOI
+acestream://64784c879ce2c2ac555623bf597266d7c33f82b2
+#EXTINF:-1 tvg-id="vtc13" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStlbDLlkgRjCa9gDZigmFWXVqo4XqrCV4RG4_AzunOXSjwHO4OPHuoCzAL0yRQV9IyjGk&usqp=CAU" group-title="VIETNAM",VTC13 4K
+acestream://6d66e98ecc5e0f59621c81b4d2683dff328b5e56
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/691.png" group-title="VIETNAM",CA MAU TV
+acestream://69f0503e266c3c90041d674624abbe18fb6e6768
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/631.png" group-title="VIETNAM",TIEN GIANG TV
+acestream://8fa670e27bd7ef63107a1a4f53cc51d33ec38c16
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HqYi1Dw.png" group-title="VIETNAM",KIEN GIANG TV
+acestream://53c2a8b40293258ffc267260055aa5d6b734fa97
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vzaqu80.png" group-title="VIETNAM",KIEN GIANG TV1
+acestream://99b9575b9a4f3ae6083faf4ec8aecf4434a65c9b
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/811.png" group-title="VIETNAM",GIA LAI TV
+acestream://33bd4d006152e8ee2ce37d2e14a642ebc051de08
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/431.png" group-title="VIETNAM",DA NANG TV1
+acestream://46d57cf1adc354fe1f42d646cd5f2b99b3ded783
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/432.png" group-title="VIETNAM",DA NANG TV2
+acestream://144031bfd039478ee18b83e9b314028e77c08f8f
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/921.png" group-title="VIETNAM",QUANG NAM TV
+acestream://cb7ec7de999e89d0235e35e85f528e46f66f238c
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/281.png" group-title="VIETNAM",HOA BINH TV
+acestream://6d1ec2c76dcd36ec2a813604bc7b3ab8a48e883b
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE - MyK+
 http://cdn.vthanhtivi.pw/K_CINE/index.m3u8
