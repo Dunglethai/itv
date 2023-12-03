@@ -57,59 +57,7 @@ https://7pal.short.gy/SSMEuhd
 #EXTINF:-1 tvg-id="Hub.Premier.2.(HD).sg" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="Sports",HUBPremier2
 https://7pal.short.gy/HubP2uhd
 
-#EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",Astro Supersport 1 FHD
-http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57653.ts
-#EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",Astro Supersport 2 FHD
-http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57654.ts
-#EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",Astro Supersport 3 FHD
-http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57655.ts
-#EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",Astro Supersport 4 FHD
-http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57656.ts
-#EXTINF:0,astro sports
-http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57653.ts
-#EXTINF:0,sky sport 1
-http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/59588.ts
-#EXTINF:0,sky sport 2
-http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/59589.ts
-#EXTINF:0,sky sport 3
-http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/59590.ts
 
-#EXTINF:0,sky sport 4
-http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/59591.ts
-#EXTINF:0,sky sport 5
-http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/59592.ts
-
-
-#EXTINF:0,football
-http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/64726.ts
-#EXTINF:0,epl
-http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/64731.ts
-
-#EXTINF:0,astro sport
-http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57653.ts
-#EXTINF:0,sky main
-http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/59411.ts
-
-#EXTINF:0,sky epl
-http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/62206.ts
-
-#EXTINF:0,tnt1
-http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/59424.ts
-#EXTINF:0,tnt2
-http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/60843.ts
-#EXTINF:0,SPORTTV
-http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57663.ts
-
-#EXTINF:0,TSN 1
-http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57666.ts
-#EXTINF:0,TSN 2
-http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57667.ts
-#EXTINF:0,TSN 3
-http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57668.ts
-#EXTINF:0,TSN 4
-http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57669.ts
-#EXTINF:0,TSN 5
-http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57670.ts
 
 #EXTINF:0,DE: Sky top event HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/54623
@@ -120,8 +68,8 @@ http://liv3e.click:2095/932366961321/377781417329/250305
 #EXTINF:-1,Sky Sport TOP Event FHD
 http://liv3e.click:2095/932366961321/377781417329/250306
 
-
-
+#EXTINF:0, epl
+http://evolved.host:8080/odanismusica@hotmail.com/wqFFmK6v3u/522233
 #EXTINF:-1,NOWSPORT4K
 http://evolved.host:8080/odanismusica@hotmail.com/wqFFmK6v3u/332715
 #EXTINF:-1,NOWSPORT4K
