@@ -38,8 +38,7 @@ http://cdn.vthanhtivi.pw/K_LIVE1/index.m3u8
 http://cdn.vthanhtivi.pw/K_LIVE2/index.m3u8
 #EXTINF:-1 tvg-id="klive3" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/044_K_LIVE3_landscape.jpg", K+ LIVE 3
 http://cdn.vthanhtivi.pw/K_LIVE3/index.m3u8
-#EXTINF:-1 tvg-id="ksktt1" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/SPORT1.jpg", SỰ KIỆN THỂ THAO 1
-http://cdn.vthanhtivi.pw/SKTT1/index.m3u8
+
 
 
 
