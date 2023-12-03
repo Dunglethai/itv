@@ -45,22 +45,8 @@ acestream://64784c879ce2c2ac555623bf597266d7c33f82b2
 acestream://6d66e98ecc5e0f59621c81b4d2683dff328b5e56
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/691.png" group-title="VIETNAM",CA MAU TV
 acestream://69f0503e266c3c90041d674624abbe18fb6e6768
-#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/631.png" group-title="VIETNAM",TIEN GIANG TV
-acestream://8fa670e27bd7ef63107a1a4f53cc51d33ec38c16
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HqYi1Dw.png" group-title="VIETNAM",KIEN GIANG TV
-acestream://53c2a8b40293258ffc267260055aa5d6b734fa97
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vzaqu80.png" group-title="VIETNAM",KIEN GIANG TV1
-acestream://99b9575b9a4f3ae6083faf4ec8aecf4434a65c9b
-#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/811.png" group-title="VIETNAM",GIA LAI TV
-acestream://33bd4d006152e8ee2ce37d2e14a642ebc051de08
-#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/431.png" group-title="VIETNAM",DA NANG TV1
-acestream://46d57cf1adc354fe1f42d646cd5f2b99b3ded783
-#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/432.png" group-title="VIETNAM",DA NANG TV2
-acestream://144031bfd039478ee18b83e9b314028e77c08f8f
-#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/921.png" group-title="VIETNAM",QUANG NAM TV
-acestream://cb7ec7de999e89d0235e35e85f528e46f66f238c
-#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/281.png" group-title="VIETNAM",HOA BINH TV
-acestream://6d1ec2c76dcd36ec2a813604bc7b3ab8a48e883b
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/631.png" group-title="VIETNAM",TIEN GIANG 
+http://127.0.0.1:6878/ace/m/78266c15035d0ad8cbc58f821733931e1de434ab/7f93313e1d207a72cb78f7fe65983571.m3u8
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE - MyK+
 http://cdn.vthanhtivi.pw/K_CINE/index.m3u8
@@ -78,7 +64,8 @@ http://cdn.vthanhtivi.pw/K_LIVE1/index.m3u8
 http://cdn.vthanhtivi.pw/K_LIVE2/index.m3u8
 #EXTINF:-1 tvg-id="klive3" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/044_K_LIVE3_landscape.jpg", K+ LIVE 3
 http://cdn.vthanhtivi.pw/K_LIVE3/index.m3u8
-
+#EXTINF:0,123
+http://127.0.0.1:6878/ace/m/78266c15035d0ad8cbc58f821733931e1de434ab/7f93313e1d207a72cb78f7fe65983571.m3u8
 
 
 
