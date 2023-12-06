@@ -231,84 +231,46 @@ http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/207/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/9010/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="2003" tvg-logo="http://epg.it999.ru/img/2003.png" tvg-rec="7",Матч! Арена
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/528/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2250" tvg-logo="http://epg.it999.ru/img/2250.png" tvg-rec="7",Матч! Премьер HD
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/220/index.m3u8
+
 #EXTINF:0 group-title="Спорт" tvg-id="2250" tvg-logo="http://epg.it999.ru/img/2250.png" tvg-rec="3",Матч! Премьер FHD
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/2414/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2250" tvg-logo="http://epg.it999.ru/img/2250.png" tvg-rec="0",Матч! Премьер HD 50
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/10021/index.m3u8
+
 #EXTINF:0 group-title="Спорт" tvg-id="2250" tvg-logo="http://epg.it999.ru/img/2250.png" tvg-rec="7",Матч! Премьер
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/531/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2250" tvg-logo="http://epg.it999.ru/img/2250.png" tvg-rec="3",Матч! Премьер orig
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/9246/index.m3u8
+
 #EXTINF:0 group-title="Спорт" tvg-id="2044" tvg-logo="http://epg.it999.ru/img/2044.png" tvg-rec="3",Матч! Футбол 1 FHD
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/2407/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2044" tvg-logo="http://epg.it999.ru/img/2044.png" tvg-rec="7",Матч! Футбол 1 HD
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/222/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2044" tvg-logo="http://epg.it999.ru/img/2044.png" tvg-rec="3",Матч! Футбол 1 HD 50 orig
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/5072/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2044" tvg-logo="http://epg.it999.ru/img/2044.png" tvg-rec="0",Матч! Футбол 1 HD 50
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/10015/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2044" tvg-logo="http://epg.it999.ru/img/2044.png" tvg-rec="7",Матч! Футбол 1
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/124/index.m3u8
+
 #EXTINF:0 group-title="Спорт" tvg-id="1042" tvg-logo="http://epg.it999.ru/img/1042.png" tvg-rec="3",Матч! Футбол 2 FHD
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/2420/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="1042" tvg-logo="http://epg.it999.ru/img/1042.png" tvg-rec="7",Матч! Футбол 2 HD
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/211/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="1042" tvg-logo="http://epg.it999.ru/img/1042.png" tvg-rec="0",Матч! Футбол 2 HD 50
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/10027/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="1042" tvg-logo="http://epg.it999.ru/img/1042.png" tvg-rec="7",Матч! Футбол 2
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/530/index.m3u8
+
 #EXTINF:0 group-title="Спорт" tvg-id="2005" tvg-logo="http://epg.it999.ru/img/2005.png" tvg-rec="3",Матч! Футбол 3 FHD
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/2408/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2005" tvg-logo="http://epg.it999.ru/img/2005.png" tvg-rec="7",Матч! Футбол 3 HD
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/206/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2005" tvg-logo="http://epg.it999.ru/img/2005.png" tvg-rec="3",Матч! Футбол 3 HD 50 orig
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/5071/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2005" tvg-logo="http://epg.it999.ru/img/2005.png" tvg-rec="0",Матч! Футбол 3 HD 50
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/10016/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2005" tvg-logo="http://epg.it999.ru/img/2005.png" tvg-rec="7",Матч! Футбол 3
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/522/index.m3u8
+
 #EXTINF:0 group-title="Спорт" tvg-id="2042" tvg-logo="http://epg.it999.ru/img/2042.png" tvg-rec="0",Матч! Страна HD
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19219/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2042" tvg-logo="http://epg.it999.ru/img/2042.png" tvg-rec="7",Матч! Страна
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/107/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2042" tvg-logo="http://epg.it999.ru/img/2042.png" tvg-rec="3",Матч! Страна orig
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/9157/index.m3u8
+
 #EXTINF:0 group-title="Спорт" tvg-id="2043" tvg-logo="http://epg.it999.ru/img/2043.png" tvg-rec="7",Матч! Планета
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/123/index.m3u8
+
 #EXTINF:0 group-title="Спорт" tvg-id="2054" tvg-logo="http://epg.it999.ru/img/2054.png" tvg-rec="0",Матч! Боец HD
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19221/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2054" tvg-logo="http://epg.it999.ru/img/2054.png" tvg-rec="7",Матч! Боец
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/150/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2054" tvg-logo="http://epg.it999.ru/img/2054.png" tvg-rec="3",Матч! Боец orig
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/9159/index.m3u8
+
 #EXTINF:0 group-title="Спорт" tvg-id="2285" tvg-logo="http://epg.it999.ru/img/2285.png" tvg-rec="0",Бокс ТВ HD
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19245/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2285" tvg-logo="http://epg.it999.ru/img/2285.png" tvg-rec="7",Бокс ТВ
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/870/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2285" tvg-logo="http://epg.it999.ru/img/2285.png" tvg-rec="3",Бокс ТВ orig
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/9162/index.m3u8
+
 #EXTINF:0 group-title="Спорт" tvg-id="2480" tvg-logo="http://epg.it999.ru/img/2480.png" tvg-rec="0",Удар HD
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19246/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="2326" tvg-logo="http://epg.it999.ru/img/2326.png" tvg-rec="0",MMA-TV.com HD
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19243/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="2747" tvg-logo="http://epg.it999.ru/img/2747.png" tvg-rec="3",Eurosport 1 HD NL
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/4004/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2052" tvg-logo="http://epg.it999.ru/img/2052.png" tvg-rec="7",Eurosport 1 HD
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/228/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2052" tvg-logo="http://epg.it999.ru/img/2052.png" tvg-rec="3",Eurosport 1 HD orig
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/5075/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2052" tvg-logo="http://epg.it999.ru/img/2052.png" tvg-rec="7",Eurosport 1
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/141/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2052" tvg-logo="http://epg.it999.ru/img/2052.png" tvg-rec="3",Eurosport 1 orig
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/9247/index.m3u8
+
 #EXTINF:0 group-title="Спорт" tvg-id="4313" tvg-logo="http://epg.it999.ru/img/4313.png" tvg-rec="3",Eurosport 2 HD orig
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/5076/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="2363" tvg-logo="http://epg.it999.ru/img/2363.png" tvg-rec="3",Setanta Eurasia Plus HD
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/270/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="7517" tvg-logo="http://epg.it999.ru/img/7517.png" tvg-rec="0",Setanta Eurasia HD orig
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/6541/index.m3u8
+
 #EXTINF:0 group-title="Спорт" tvg-id="7517" tvg-logo="http://epg.it999.ru/img/7517.png" tvg-rec="0",Setanta Eurasia
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/6543/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="2363" tvg-logo="http://epg.it999.ru/img/2363.png" tvg-rec="0",Setanta Eurasia Plus HD orig
@@ -323,12 +285,10 @@ http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/5069/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/2399/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="2370" tvg-logo="http://epg.it999.ru/img/2370.png" tvg-rec="3",Setanta Ukraine HD
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/272/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2370" tvg-logo="http://epg.it999.ru/img/2370.png" tvg-rec="0",Setanta Ukraine HD orig
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/15183/index.m3u8
+
 #EXTINF:0 group-title="Спорт" tvg-id="6860" tvg-logo="http://epg.it999.ru/img/6860.png" tvg-rec="3",Setanta Ukraine Plus HD
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/5068/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="6860" tvg-logo="http://epg.it999.ru/img/6860.png" tvg-rec="0",Setanta Ukraine Plus HD orig
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/15184/index.m3u8
+
 #EXTINF:0 group-title="Спорт" tvg-id="6861" tvg-logo="http://epg.it999.ru/img/6861.png" tvg-rec="0",Setanta Sports 1 Baltic FHD
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/20081/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="7244" tvg-logo="http://epg.it999.ru/img/7244.png" tvg-rec="0",Setanta Moldova HD
@@ -339,132 +299,40 @@ http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/14180/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/14181/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="2055" tvg-logo="http://epg.it999.ru/img/2055.png" tvg-rec="7",Viju+ Sport HD
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/2007/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2055" tvg-logo="http://epg.it999.ru/img/2055.png" tvg-rec="3",Viju+ Sport HD orig
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/5065/index.m3u8
+
 #EXTINF:0 group-title="Спорт" tvg-id="2055" tvg-logo="http://epg.it999.ru/img/2055.png" tvg-rec="7",Viju+ Sport
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/160/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2055" tvg-logo="http://epg.it999.ru/img/2055.png" tvg-rec="3",Viju+ Sport orig
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/9249/index.m3u8
+
 #EXTINF:0 group-title="Спорт" tvg-id="2821" tvg-logo="http://epg.it999.ru/img/2821.png" tvg-rec="3",Viasat Fotboll HD SK orig
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/5078/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="6130" tvg-logo="http://epg.it999.ru/img/6130.png" tvg-rec="3",Insport HD
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/9094/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2480" tvg-logo="http://epg.it999.ru/img/2480.png" tvg-rec="3",Удар HD orig
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/5067/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2480" tvg-logo="http://epg.it999.ru/img/2480.png" tvg-rec="7",Удар
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/2000/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="7895" tvg-logo="http://epg.it999.ru/img/7895.png" tvg-rec="3",Окко Спорт HD
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/6554/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2326" tvg-logo="http://epg.it999.ru/img/2326.png" tvg-rec="7",MMA-TV.com
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/843/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2326" tvg-logo="http://epg.it999.ru/img/2326.png" tvg-rec="3",MMA-TV.com orig
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/9161/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2803" tvg-logo="http://epg.it999.ru/img/2803.png" tvg-rec="3",Russian Extreme UHD
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/5003/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2497" tvg-logo="http://epg.it999.ru/img/2497.png" tvg-rec="3",Russian Extreme HD
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/2077/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2497" tvg-logo="http://epg.it999.ru/img/2497.png" tvg-rec="3",Russian Extreme HD orig
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/9042/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2053" tvg-logo="http://epg.it999.ru/img/2053.png" tvg-rec="7",Extreme Sports
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/144/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2053" tvg-logo="http://epg.it999.ru/img/2053.png" tvg-rec="3",Extreme Sports orig
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/9160/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2243" tvg-logo="http://epg.it999.ru/img/2243.png" tvg-rec="3",XSPORT HD
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/996/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2243" tvg-logo="http://epg.it999.ru/img/2243.png" tvg-rec="3",Xsport HD orig
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/5077/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2048" tvg-logo="http://epg.it999.ru/img/2048.png" tvg-rec="7",KHL HD
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/215/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2048" tvg-logo="http://epg.it999.ru/img/2048.png" tvg-rec="7",KHL
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/519/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2048" tvg-logo="http://epg.it999.ru/img/2048.png" tvg-rec="3",KHL orig
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/9250/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="1038" tvg-logo="http://epg.it999.ru/img/1038.png" tvg-rec="0",KHL Prime HD
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19396/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="1038" tvg-logo="http://epg.it999.ru/img/1038.png" tvg-rec="3",KHL Prime FHD
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/2403/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="1038" tvg-logo="http://epg.it999.ru/img/1038.png" tvg-rec="0",KHL Prime HD 50
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/10028/index.m3u8
 
 
 #EXTINF:0 group-title="Спорт" tvg-id="2782" tvg-logo="http://epg.it999.ru/img/2782.png" tvg-rec="0",Футбол HD
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19244/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2782" tvg-logo="http://epg.it999.ru/img/2782.png" tvg-rec="3",Футбол
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/5050/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2782" tvg-logo="http://epg.it999.ru/img/2782.png" tvg-rec="3",Футбол orig
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/9251/index.m3u8
+
 #EXTINF:0 group-title="Спорт" tvg-id="2529" tvg-logo="http://epg.it999.ru/img/2529.png" tvg-rec="3",Моторспорт ТВ HD
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/2146/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2529" tvg-logo="http://epg.it999.ru/img/2529.png" tvg-rec="3",Моторспорт ТВ
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/2145/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2529" tvg-logo="http://epg.it999.ru/img/2529.png" tvg-rec="3",Моторспорт ТВ orig
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/9248/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2362" tvg-logo="http://epg.it999.ru/img/2362.png" tvg-rec="3",FAST&FUN BOX HD
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/1018/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2362" tvg-logo="http://epg.it999.ru/img/2362.png" tvg-rec="0",Fastnfunbox
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/15231/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="3792" tvg-logo="http://epg.it999.ru/img/3792.png" tvg-rec="0",FightBox
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/15232/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2629" tvg-logo="http://epg.it999.ru/img/2629.png" tvg-rec="3",Fuel TV HD
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/2396/index.m3u8
+
 #EXTINF:0 group-title="Спорт" tvg-id="2530" tvg-logo="http://epg.it999.ru/img/2530.png" tvg-rec="3",Старт HD
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/6384/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2530" tvg-logo="http://epg.it999.ru/img/2530.png" tvg-rec="3",Старт HD orig
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/9083/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2530" tvg-logo="http://epg.it999.ru/img/2530.png" tvg-rec="3",Старт
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/2154/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="4629" tvg-logo="http://epg.it999.ru/img/4629.png" tvg-rec="0",Мир Баскетбола
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/10033/index.m3u8
+
+
 #EXTINF:0 group-title="Спорт" tvg-id="3117" tvg-logo="http://epg.it999.ru/img/3117.png" tvg-rec="3",Super Tennis HD
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/6079/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="5891" tvg-logo="http://epg.it999.ru/img/5891.png" tvg-rec="0",Q Sport Arena HD
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/15238/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="7509" tvg-logo="http://epg.it999.ru/img/7509.png" tvg-rec="0",QazSport HD
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/14032/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="1679" tvg-logo="http://epg.it999.ru/img/1679.png" tvg-rec="3",Конный Мир HD orig
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/9055/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="4679" tvg-logo="http://epg.it999.ru/img/4679.png" tvg-rec="7",Футбольный HD
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/10058/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="4678" tvg-logo="http://epg.it999.ru/img/4678.png" tvg-rec="7",Спортивный HD
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/10057/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="4605" tvg-logo="http://epg.it999.ru/img/4605.png" tvg-rec="0",Хоккейный HD
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/10039/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="113" tvg-logo="http://epg.it999.ru/img/113.png" tvg-rec="0",ЖИВИ! HD
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19252/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="113" tvg-logo="http://epg.it999.ru/img/113.png" tvg-rec="7",ЖИВИ!
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/738/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="113" tvg-logo="http://epg.it999.ru/img/113.png" tvg-rec="3",ЖИВИ! orig
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/9164/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="5881" tvg-logo="http://epg.it999.ru/img/5881.png" tvg-rec="0",Живи Активно HD
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/15143/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="7507" tvg-logo="http://epg.it999.ru/img/7507.png" tvg-rec="0",Trace Sport Stars HD
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/14030/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="7508" tvg-logo="http://epg.it999.ru/img/7508.png" tvg-rec="0",NBA HD
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/14031/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="4801" tvg-logo="http://epg.it999.ru/img/4801.png" tvg-rec="0",AT&T SPORTSNET HD
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/11107/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="4802" tvg-logo="http://epg.it999.ru/img/4802.png" tvg-rec="0",SPECTRUM SPORTSNET
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/11108/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="4803" tvg-logo="http://epg.it999.ru/img/4803.png" tvg-rec="0",NESN HD
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/11109/index.m3u8
+
 #EXTINF:0 group-title="Спорт" tvg-id="4796" tvg-logo="http://epg.it999.ru/img/4796.png" tvg-rec="0",V Sport Football FHD
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/11110/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="4908" tvg-logo="http://epg.it999.ru/img/4908.png" tvg-rec="0",V Sport Vinter FHD
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/11111/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="4734" tvg-logo="http://epg.it999.ru/img/4734.png" tvg-rec="7",WWE Russian
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/11056/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="5559" tvg-logo="http://epg.it999.ru/img/5559.png" tvg-rec="0",SKY HIGH FIGHT + HD
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/15097/index.m3u8
+
 #EXTINF:0 group-title="Спорт" tvg-id="4580" tvg-logo="http://epg.it999.ru/img/4580.png" tvg-rec="0",Наш Спорт 1
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/7360/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="4581" tvg-logo="http://epg.it999.ru/img/4581.png" tvg-rec="0",Наш Спорт 2
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/7361/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="4582" tvg-logo="http://epg.it999.ru/img/4582.png" tvg-rec="0",Наш Спорт 3
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/7362/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="4583" tvg-logo="http://epg.it999.ru/img/4583.png" tvg-rec="0",Наш Спорт 4
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/7363/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="4584" tvg-logo="http://epg.it999.ru/img/4584.png" tvg-rec="0",Наш Спорт 5
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/7364/index.m3u8
 
 #EXTINF:0 group-title="Спорт" tvg-id="4656" tvg-logo="http://epg.it999.ru/img/4656.png" tvg-rec="0",sky Sport F1 DE
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19022/index.m3u8
@@ -483,8 +351,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19029/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="6489" tvg-logo="http://epg.it999.ru/img/6489.png" tvg-rec="0",sky Sport 3 DE
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19030/index.m3u8
 
-#EXTINF:0 group-title="Спорт" tvg-id="6497" tvg-logo="http://epg.it999.ru/img/6497.png" tvg-rec="0",sky Sport Austria 4 HD (ONLY ON MATCH DAYS)
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19038/index.m3u8
+
 #EXTINF:0 group-title="Спорт" tvg-id="6498" tvg-logo="http://epg.it999.ru/img/6498.png" tvg-rec="0",Eurosport360 1 HD DE
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19039/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="6499" tvg-logo="http://epg.it999.ru/img/6499.png" tvg-rec="0",Eurosport360 2 HD DE
@@ -501,20 +368,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19052/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19053/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="6507" tvg-logo="http://epg.it999.ru/img/6507.png" tvg-rec="0",TNT SPORTS 4 HD
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19054/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="6508" tvg-logo="http://epg.it999.ru/img/6508.png" tvg-rec="0",TNT SPORTS 6 HD
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19055/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="6509" tvg-logo="http://epg.it999.ru/img/6509.png" tvg-rec="0",ESPN HD BR
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19056/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="6509" tvg-logo="http://epg.it999.ru/img/6509.png" tvg-rec="0",ESPN HD BR
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19061/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="6511" tvg-logo="http://epg.it999.ru/img/6511.png" tvg-rec="0",ESPN2 HD BR
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19058/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="6510" tvg-logo="http://epg.it999.ru/img/6510.png" tvg-rec="0",ESPN EXTRA HD BR
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19057/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="6513" tvg-logo="http://epg.it999.ru/img/6513.png" tvg-rec="0",ESPN BRASIL HD
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19059/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="6513" tvg-logo="http://epg.it999.ru/img/6513.png" tvg-rec="0",ESPN Brasil
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19060/index.m3u8
+
 #EXTINF:0 group-title="Спорт" tvg-id="3880" tvg-logo="http://epg.it999.ru/img/3880.png" tvg-rec="0",beIN Sports Max 1 FullHD
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19062/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="6519" tvg-logo="http://epg.it999.ru/img/6519.png" tvg-rec="0",beIN Sports Max 2 FullHD
@@ -565,8 +419,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19113/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19115/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="6544" tvg-logo="http://epg.it999.ru/img/6544.png" tvg-rec="0",Eurosport 2 HD IT
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19116/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="6545" tvg-logo="http://epg.it999.ru/img/6545.png" tvg-rec="0",RTV Sport (San Marino)
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19117/index.m3u8
+
 #EXTINF:0 group-title="Спорт" tvg-id="6555" tvg-logo="http://epg.it999.ru/img/6555.png" tvg-rec="0",SKY SPORT 24
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19127/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="6556" tvg-logo="http://epg.it999.ru/img/6556.png" tvg-rec="0",SKY SPORT ARENA
@@ -603,26 +456,17 @@ http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19106/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19161/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="6533" tvg-logo="http://epg.it999.ru/img/6533.png" tvg-rec="0",Sky Sport F1 IT
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19105/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="6584" tvg-logo="http://epg.it999.ru/img/6584.png" tvg-rec="0",BENFICA 4K TV UHD PT
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19160/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="6587" tvg-logo="http://epg.it999.ru/img/6587.png" tvg-rec="0",Barça TV
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19165/index.m3u8
+
 #EXTINF:0 group-title="Спорт" tvg-id="6687" tvg-logo="http://epg.it999.ru/img/6687.png" tvg-rec="0",ESPN 3 HD NL
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19203/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="6684" tvg-logo="http://epg.it999.ru/img/6684.png" tvg-rec="0",RMC SPORT 4
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19200/index.m3u8
+
 #EXTINF:0 group-title="Спорт" tvg-id="6685" tvg-logo="http://epg.it999.ru/img/6685.png" tvg-rec="0",ESPN 1 HD NL
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19201/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="6686" tvg-logo="http://epg.it999.ru/img/6686.png" tvg-rec="0",ESPN 2 HD NL
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19202/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="6688" tvg-logo="http://epg.it999.ru/img/6688.png" tvg-rec="0",ESPN 4 HD NL
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19204/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="6850" tvg-logo="http://epg.it999.ru/img/6850.png" tvg-rec="0",BOX Be On Edge Live 1 HD
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19422/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="6851" tvg-logo="http://epg.it999.ru/img/6851.png" tvg-rec="0",BOX Be On Edge Live 2 HD
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19423/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="6852" tvg-logo="http://epg.it999.ru/img/6852.png" tvg-rec="0",BOX Be On Edge HD
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19424/index.m3u8
+
 
 
 #EXTINF:0 group-title="Спорт" tvg-id="3058" tvg-logo="http://epg.it999.ru/img/3058.png" tvg-rec="3",CANAL+ SPORT 2 PL
@@ -631,12 +475,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/6099/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/20060/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="7253" tvg-logo="http://epg.it999.ru/img/7253.png" tvg-rec="0",BT Sports 4k UHD
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/20058/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="7234" tvg-logo="http://epg.it999.ru/img/7234.png" tvg-rec="0",Sporsmart 2 HD
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/20059/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="7235" tvg-logo="http://epg.it999.ru/img/7235.png" tvg-rec="0",Q Sport HD
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/20061/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="7236" tvg-logo="http://epg.it999.ru/img/7236.png" tvg-rec="0",Q Sport League HD
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/20062/index.m3u8
+
 #EXTINF:0 group-title="Спорт" tvg-id="7239" tvg-logo="http://epg.it999.ru/img/7239.png" tvg-rec="0",Setanta Sports 1 Qazaqstan HD
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/20065/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="2052" tvg-logo="http://epg.it999.ru/img/2052.png" tvg-rec="0",Eurosport 1 HD CEE
@@ -679,10 +518,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/2548/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/6417/index.m3u8
 #EXTINF:0 group-title="Латвия | Latvia" tvg-id="3381" tvg-logo="http://epg.it999.ru/img/3381.png" tvg-rec="3",TV3 Sport 2 HD LT
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/6418/index.m3u8
-#EXTINF:0 group-title="Латвия | Latvia" tvg-id="7007" tvg-logo="http://epg.it999.ru/img/7007.png" tvg-rec="3",TV3 Sport 3 HD LV
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/6408/index.m3u8
-#EXTINF:0 group-title="Латвия | Latvia" tvg-id="6312" tvg-logo="http://epg.it999.ru/img/6312.png" tvg-rec="0",Best4Sport HD LV
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/18016/index.m3u8
+
 #EXTINF:0 group-title="Латвия | Latvia" tvg-id="3380" tvg-logo="http://epg.it999.ru/img/3380.png" tvg-rec="0",TV3 Sport HD LV
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/18011/index.m3u8
 #EXTINF:0 group-title="Латвия | Latvia" tvg-id="3381" tvg-logo="http://epg.it999.ru/img/3381.png" tvg-rec="0",TV3 Sport 2 HD LV
@@ -693,12 +529,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/18000/index.m3u8
 #EXTINF:0 group-title="Эстония | Eesti" tvg-id="6309" tvg-logo="http://epg.it999.ru/img/6309.png" tvg-rec="0",TV3 Sport 2 HD EE
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/18001/index.m3u8
 
-#EXTINF:0 group-title="Грузия | ქართული" tvg-id="6815" tvg-logo="http://epg.it999.ru/img/6815.png" tvg-rec="0",Silksport HD 2 GE
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19331/index.m3u8
-#EXTINF:0 group-title="Грузия | ქართული" tvg-id="6816" tvg-logo="http://epg.it999.ru/img/6816.png" tvg-rec="0",Silksport HD 3 GE
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19332/index.m3u8
-#EXTINF:0 group-title="Грузия | ქართული" tvg-id="6817" tvg-logo="http://epg.it999.ru/img/6817.png" tvg-rec="0",Silksport HD GE
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/19333/index.m3u8
 
 #EXTINF:0 group-title="Германия | Germany" tvg-id="2877" tvg-logo="http://epg.it999.ru/img/2877.png" tvg-rec="3",Sky Sport News HD DE
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/2477/index.m3u8
@@ -758,36 +588,9 @@ http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/7312/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/4001/index.m3u8
 
 
-#EXTINF:0 group-title="Турция | Türk" tvg-id="3873" tvg-logo="http://epg.it999.ru/img/3873.png" tvg-rec="3",beIN Sports 1 (Yedek) HD TR
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/6817/index.m3u8
-#EXTINF:0 group-title="Турция | Türk" tvg-id="3874" tvg-logo="http://epg.it999.ru/img/3874.png" tvg-rec="3",beIN Sports 2 HD TR
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/6818/index.m3u8
-#EXTINF:0 group-title="Турция | Türk" tvg-id="3874" tvg-logo="http://epg.it999.ru/img/3874.png" tvg-rec="3",beIN Sports 2 (Yedek) HD TR
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/6819/index.m3u8
-#EXTINF:0 group-title="Турция | Türk" tvg-id="3876" tvg-logo="http://epg.it999.ru/img/3876.png" tvg-rec="3",beIN Sports 3 HD TR
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/6820/index.m3u8
-#EXTINF:0 group-title="Турция | Türk" tvg-id="3876" tvg-logo="http://epg.it999.ru/img/3876.png" tvg-rec="3",beIN Sports 3 (Yedek) HD TR
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/6821/index.m3u8
-#EXTINF:0 group-title="Турция | Türk" tvg-id="3878" tvg-logo="http://epg.it999.ru/img/3878.png" tvg-rec="3",beIN Sports 4 HD TR
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/6822/index.m3u8
-#EXTINF:0 group-title="Турция | Türk" tvg-id="3878" tvg-logo="http://epg.it999.ru/img/3878.png" tvg-rec="3",beIN Sports 4 (Yedek) HD TR
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/6823/index.m3u8
-#EXTINF:0 group-title="Турция | Türk" tvg-id="3880" tvg-logo="http://epg.it999.ru/img/3880.png" tvg-rec="3",beIN Sports Max 1 HD TR
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/6824/index.m3u8
-#EXTINF:0 group-title="Турция | Türk" tvg-id="3881" tvg-logo="http://epg.it999.ru/img/3881.png" tvg-rec="3",S Sport 1 HD TR
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/6825/index.m3u8
-#EXTINF:0 group-title="Турция | Türk" tvg-id="3884" tvg-logo="http://epg.it999.ru/img/3884.png" tvg-rec="3",Sports TV TR
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/6828/index.m3u8
 
 
 
-
-#EXTINF:0 group-title="Болгария | Bulgaria" tvg-rec="3",NOVA Sport BG
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/2514/index.m3u8
-#EXTINF:0 group-title="Болгария | Bulgaria" tvg-id="2366" tvg-logo="http://epg.it999.ru/img/2366.png" tvg-rec="3",Wness TV HD BG
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/984/index.m3u8
-#EXTINF:0 group-title="Словакия | Slovakia" tvg-id="2994" tvg-logo="http://epg.it999.ru/img/2994.png" tvg-rec="3",NickToons SK
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/6095/index.m3u8
 #EXTINF:0 group-title="Словакия | Slovakia" tvg-id="2934" tvg-logo="http://epg.it999.ru/img/2934.png" tvg-rec="3",Arena Sport 1 SK
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/2550/index.m3u8
 #EXTINF:0 group-title="Словакия | Slovakia" tvg-id="3126" tvg-logo="http://epg.it999.ru/img/3126.png" tvg-rec="3",Viasat Sport Premium HD SK
@@ -800,10 +603,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/7264/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/7265/index.m3u8
 #EXTINF:0 group-title="Хорватия | Croatia" tvg-id="4566" tvg-logo="http://epg.it999.ru/img/4566.png" tvg-rec="0",Arena Sport 4 FHD HR
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/7266/index.m3u8
-#EXTINF:0 group-title="Хорватия | Croatia" tvg-id="4567" tvg-logo="http://epg.it999.ru/img/4567.png" tvg-rec="0",Arena Sport 5 FHD HR
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/7267/index.m3u8
-#EXTINF:0 group-title="Хорватия | Croatia" tvg-id="4568" tvg-logo="http://epg.it999.ru/img/4568.png" tvg-rec="0",Arena Sport 6 FHD HR
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/7268/index.m3u8
+
 #EXTINF:0 group-title="Хорватия | Croatia" tvg-id="4536" tvg-logo="http://epg.it999.ru/img/4536.png" tvg-rec="0",Sport Klub 1 HD HR
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/7269/index.m3u8
 #EXTINF:0 group-title="Хорватия | Croatia" tvg-id="4537" tvg-logo="http://epg.it999.ru/img/4537.png" tvg-rec="0",Sport Klub 2 HD HR
@@ -814,28 +614,14 @@ http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/7271/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/7272/index.m3u8
 #EXTINF:0 group-title="Хорватия | Croatia" tvg-id="4540" tvg-logo="http://epg.it999.ru/img/4540.png" tvg-rec="0",Sport Klub 5 HD HR
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/7273/index.m3u8
-#EXTINF:0 group-title="Хорватия | Croatia" tvg-id="4541" tvg-logo="http://epg.it999.ru/img/4541.png" tvg-rec="0",Sport Klub 6 HD HR
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/7274/index.m3u8
-#EXTINF:0 group-title="Хорватия | Croatia" tvg-id="4542" tvg-logo="http://epg.it999.ru/img/4542.png" tvg-rec="0",Sport Klub 7 HD HR
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/7275/index.m3u8
-#EXTINF:0 group-title="Хорватия | Croatia" tvg-id="4543" tvg-logo="http://epg.it999.ru/img/4543.png" tvg-rec="0",Sport Klub 8 HD HR
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/7276/index.m3u8
-#EXTINF:0 group-title="Хорватия | Croatia" tvg-id="4544" tvg-logo="http://epg.it999.ru/img/4544.png" tvg-rec="0",Sport Klub Golf HR
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/7277/index.m3u8
-#EXTINF:0 group-title="Хорватия | Croatia" tvg-id="4545" tvg-logo="http://epg.it999.ru/img/4545.png" tvg-rec="0",Sport Klub HD HR
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/7278/index.m3u8
+
 #EXTINF:0 group-title="Хорватия | Croatia" tvg-id="4563" tvg-logo="http://epg.it999.ru/img/4563.png" tvg-rec="0",Arena Sport 1 HD HR
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/7329/index.m3u8
 #EXTINF:0 group-title="Хорватия | Croatia" tvg-id="4564" tvg-logo="http://epg.it999.ru/img/4564.png" tvg-rec="0",Arena Sport 2 HD HR
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/7330/index.m3u8
 #EXTINF:0 group-title="Хорватия | Croatia" tvg-id="4565" tvg-logo="http://epg.it999.ru/img/4565.png" tvg-rec="0",Arena Sport 3 HD HR
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/7331/index.m3u8
-#EXTINF:0 group-title="Хорватия | Croatia" tvg-id="4566" tvg-logo="http://epg.it999.ru/img/4566.png" tvg-rec="0",Arena Sport 4 HD HR
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/7332/index.m3u8
-#EXTINF:0 group-title="Хорватия | Croatia" tvg-id="4567" tvg-logo="http://epg.it999.ru/img/4567.png" tvg-rec="0",Arena Sport 5 HD HR
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/7333/index.m3u8
-#EXTINF:0 group-title="Хорватия | Croatia" tvg-id="4568" tvg-logo="http://epg.it999.ru/img/4568.png" tvg-rec="0",Arena Sport 6 HD HR
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/7334/index.m3u8
+
 #EXTINF:0 group-title="Чехия | Czech Republic" tvg-id="2935" tvg-logo="http://epg.it999.ru/img/2935.png" tvg-rec="3",ČT sport HD CZ
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/2551/index.m3u8
 #EXTINF:0 group-title="Чехия | Czech Republic" tvg-id="2939" tvg-logo="http://epg.it999.ru/img/2939.png" tvg-rec="3",Nova Sport 1 HD CZ
@@ -950,32 +736,10 @@ http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/6522/index.m3u8
 
 
 
-#EXTINF:0 group-title="Арабские | عربي" tvg-id="3047" tvg-logo="http://epg.it999.ru/img/3047.png" tvg-rec="0",beIN Sports 1 HD QA
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/6123/index.m3u8
-#EXTINF:0 group-title="Арабские | عربي" tvg-id="3048" tvg-logo="http://epg.it999.ru/img/3048.png" tvg-rec="0",beIN Sports 3 HD QA
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/6124/index.m3u8
-#EXTINF:0 group-title="Арабские | عربي" tvg-id="3049" tvg-logo="http://epg.it999.ru/img/3049.png" tvg-rec="0",beIN Sports 4 HD QA
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/6125/index.m3u8
-#EXTINF:0 group-title="Арабские | عربي" tvg-id="3050" tvg-logo="http://epg.it999.ru/img/3050.png" tvg-rec="0",beIN Sports 5 HD QA
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/6126/index.m3u8
-#EXTINF:0 group-title="Арабские | عربي" tvg-id="3051" tvg-logo="http://epg.it999.ru/img/3051.png" tvg-rec="0",beIN Sports 6 HD QA
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/6127/index.m3u8
-#EXTINF:0 group-title="Арабские | عربي" tvg-id="3052" tvg-logo="http://epg.it999.ru/img/3052.png" tvg-rec="0",beIN Sports 7 HD QA
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/6128/index.m3u8
-#EXTINF:0 group-title="Арабские | عربي" tvg-rec="0",beIN Sports 8 HD QA
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/6129/index.m3u8
-#EXTINF:0 group-title="Арабские | عربي" tvg-id="3055" tvg-logo="http://epg.it999.ru/img/3055.png" tvg-rec="0",beIN Sports 1 Premium HD QA
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/6131/index.m3u8
 #EXTINF:0 group-title="Арабские | عربي" tvg-rec="0",beIN Sports 1 HD EN
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/6132/index.m3u8
 #EXTINF:0 group-title="Арабские | عربي" tvg-id="5091" tvg-logo="http://epg.it999.ru/img/5091.png" tvg-rec="0",beIN Sports 2 HD EN
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/6133/index.m3u8
-#EXTINF:0 group-title="ОАЭ | UAE" tvg-id="2895" tvg-logo="http://epg.it999.ru/img/2895.png" tvg-rec="3",YAS Sports AE
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/2511/index.m3u8
-
-
-
-
 #EXTINF:0 group-title="Индия | India" tvg-id="2892" tvg-logo="http://epg.it999.ru/img/2892.png" tvg-rec="3",Star Sports 1 IN
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/2508/index.m3u8
 #EXTINF:0 group-title="Индия | India" tvg-id="2891" tvg-logo="http://epg.it999.ru/img/2891.png" tvg-rec="3",Star Sports 2 IN
@@ -983,27 +747,11 @@ http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/2507/index.m3u8
 
 
 
-
-#EXTINF:0 group-title="Дания | Denmark" tvg-id="2921" tvg-logo="http://epg.it999.ru/img/2921.png" tvg-rec="3",TV 2 SPORT HD DK
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/2537/index.m3u8
-#EXTINF:0 group-title="Дания | Denmark" tvg-id="4518" tvg-logo="http://epg.it999.ru/img/4518.png" tvg-rec="0",DR1 HD DK
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/7354/index.m3u8
-#EXTINF:0 group-title="Дания | Denmark" tvg-id="2921" tvg-logo="http://epg.it999.ru/img/2921.png" tvg-rec="0",TV 2 SPORT HD DK
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/7355/index.m3u8
-#EXTINF:0 group-title="Дания | Denmark" tvg-id="4521" tvg-logo="http://epg.it999.ru/img/4521.png" tvg-rec="0",Kanal 4 HD DK
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/7358/index.m3u8
-#EXTINF:0 group-title="Нидерланды | Netherlands" tvg-id="2943" tvg-logo="http://epg.it999.ru/img/2943.png" tvg-rec="3",Ziggo Sport Golf NL
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/2559/index.m3u8
 #EXTINF:0 group-title="Нидерланды | Netherlands" tvg-id="2944" tvg-logo="http://epg.it999.ru/img/2944.png" tvg-rec="3",Ziggo Sport Select HD NL
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/2560/index.m3u8
 #EXTINF:0 group-title="Нидерланды | Netherlands" tvg-id="2945" tvg-logo="http://epg.it999.ru/img/2945.png" tvg-rec="3",Ziggo Sport Voetbal NL
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/2561/index.m3u8
-#EXTINF:0 group-title="Нидерланды | Netherlands" tvg-rec="3",FOX Sports 1 HD NL
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/2552/index.m3u8
-#EXTINF:0 group-title="Нидерланды | Netherlands" tvg-rec="3",FOX Sports 2 HD NL
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/2553/index.m3u8
-#EXTINF:0 group-title="Нидерланды | Netherlands" tvg-rec="3",FOX Sports 4 HD NL
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/2554/index.m3u8
+
 #EXTINF:0 group-title="Норвегия | Norway" tvg-id="2924" tvg-logo="http://epg.it999.ru/img/2924.png" tvg-rec="3",TV 2 Sport 2 HD NO
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/2540/index.m3u8
 #EXTINF:0 group-title="Норвегия | Norway" tvg-id="4519" tvg-logo="http://epg.it999.ru/img/4519.png" tvg-rec="0",FEM HD NO
@@ -1016,22 +764,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/2515/index.m3u8
 #EXTINF:0 group-title="Швеция | Sweden" tvg-id="4897" tvg-logo="http://epg.it999.ru/img/4897.png" tvg-rec="0",C MORE FOOTBALL HD SE
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/12032/index.m3u8
 
-#EXTINF:0 group-title="Швеция | Sweden" tvg-id="4900" tvg-logo="http://epg.it999.ru/img/4900.png" tvg-rec="0",C MORE HOKEY HD SE
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/12035/index.m3u8
-#EXTINF:0 group-title="Швеция | Sweden" tvg-id="4839" tvg-logo="http://epg.it999.ru/img/4839.png" tvg-rec="0",C MORE LIVE 1 HD SE
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/12036/index.m3u8
-#EXTINF:0 group-title="Швеция | Sweden" tvg-id="4840" tvg-logo="http://epg.it999.ru/img/4840.png" tvg-rec="0",C MORE LIVE 2 HD SE
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/12037/index.m3u8
-#EXTINF:0 group-title="Швеция | Sweden" tvg-id="4841" tvg-logo="http://epg.it999.ru/img/4841.png" tvg-rec="0",C MORE LIVE 3 HD SE
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/12038/index.m3u8
-#EXTINF:0 group-title="Швеция | Sweden" tvg-id="4842" tvg-logo="http://epg.it999.ru/img/4842.png" tvg-rec="0",C MORE LIVE 4 HD SE
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/12039/index.m3u8
-#EXTINF:0 group-title="Швеция | Sweden" tvg-id="4843" tvg-logo="http://epg.it999.ru/img/4843.png" tvg-rec="0",C MORE LIVE 5 HD SE
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/12040/index.m3u8
-#EXTINF:0 group-title="Швеция | Sweden" tvg-id="4844" tvg-logo="http://epg.it999.ru/img/4844.png" tvg-rec="0",C MORE SERIES HD SE
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/12041/index.m3u8
-#EXTINF:0 group-title="Швеция | Sweden" tvg-id="4901" tvg-logo="http://epg.it999.ru/img/4901.png" tvg-rec="0",C MORE STARTS HD SE
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/12042/index.m3u8
 
 #EXTINF:0 group-title="Швеция | Sweden" tvg-id="4902" tvg-logo="http://epg.it999.ru/img/4902.png" tvg-rec="0",EUROSPORT 1 HD SE
 http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/12047/index.m3u8
