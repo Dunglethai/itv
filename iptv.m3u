@@ -59,10 +59,6 @@ https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/onlive/i
 #EXTINF:-1 tvg-id="vtvcab8hd" group-title="03.VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/19.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/vieon/id/vtvcab8-on-bibi/xemlai/${start}-${offset}", ON BiBi
 https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/tv360/id/178
 
-#EXTINF:-1 tvg-id="vtvcab9hd" group-title="03.VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/20.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/vieon/id/vtvcab9-info-tv/xemlai/${start}-${offset}", ON Info TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/vieon/id/vtvcab9-info-tv
-
 #EXTINF:-1 tvg-id="vtvcab10hd" group-title="03.VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/21.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/vieon/id/vtvcab10-on-cine/xemlai/${start}-${offset}", ON Cine
 https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/tv360/id/176
 
@@ -101,124 +97,6 @@ https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/onlive/i
 
 #EXTINF:-1 tvg-id="btv5hd" group-title="03.VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/tv360/id/2380/xemlai/${start}-${offset}", BTV5 - ON Action
 https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/tv360/id/2380
-
-#-*--SCTV-*--#
-
-#EXTINF:-1 tvg-id="sctv1hd" group-title="05.SCTV" group-logo="https://vanhoadoisong.vn/wp-content/uploads/2022/05/tong-dai-truyen-hinh-cap-sctv-ho-tro-va-cham-soc-khach-hang-24-7-thumb.jpg" tvg-logo="https://cdn.hqth.me/logo/thumbs/63.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv1/xemlai/${start}-${offset}/ref/ref#|Referer=https://sctvonline.vn", SCTV1 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://sctvonline.vn
-https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv1?#|Referer=https://sctvonline.vn
-
-#EXTINF:-1 tvg-id="sctv2hd" group-title="05.SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/64.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv2/xemlai/${start}-${offset}/ref/ref#|Referer=https://sctvonline.vn", SCTV2 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://sctvonline.vn
-https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv2?#|Referer=https://sctvonline.vn
-
-#EXTINF:-1 tvg-id="sctv3hd" group-title="05.SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/65.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv3/xemlai/${start}-${offset}/ref/ref#|Referer=https://sctvonline.vn", SCTV3 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://sctvonline.vn
-https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv3?#|Referer=https://sctvonline.vn
-
-#EXTINF:-1 tvg-id="sctv4hd" group-title="05.SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/66.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv4/xemlai/${start}-${offset}/ref/ref#|Referer=https://sctvonline.vn", SCTV4 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://sctvonline.vn
-https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv4?#|Referer=https://sctvonline.vn
-
-#EXTINF:-1 group-title="05.SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/67.png", SCTV5 HD - SCJ
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://sctvonline.vn
-https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv5?#|Referer=https://sctvonline.vn
-
-#EXTINF:-1 tvg-id="sctv6hd" group-title="05.SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/68.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv6/xemlai/${start}-${offset}/ref/ref#|Referer=https://sctvonline.vn", SCTV6 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://sctvonline.vn
-https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv6?#|Referer=https://sctvonline.vn
-
-#EXTINF:-1 tvg-id="sctv7hd" group-title="05.SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/69.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv7/xemlai/${start}-${offset}/ref/ref#|Referer=https://sctvonline.vn", SCTV7 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://sctvonline.vn
-https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv7?#|Referer=https://sctvonline.vn
-
-#EXTINF:-1 tvg-id="sctv8hd" group-title="05.SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/70.png", SCTV8 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://sctvonline.vn
-https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv8?#|Referer=https://sctvonline.vn
-
-#EXTINF:-1 tvg-id="sctv9hd" group-title="05.SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/71.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv9/xemlai/${start}-${offset}/ref/ref#|Referer=https://sctvonline.vn", SCTV9 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://sctvonline.vn
-https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv9?#|Referer=https://sctvonline.vn
-
-#EXTINF:-1 group-title="05.SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/72.png", SCTV10
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://sctvonline.vn
-https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv10?#|Referer=https://sctvonline.vn
-
-#EXTINF:-1 tvg-id="sctv11hd" group-title="05.SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/73.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv11/xemlai/${start}-${offset}/ref/ref#|Referer=https://sctvonline.vn", SCTV11 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://sctvonline.vn
-https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv11?#|Referer=https://sctvonline.vn
-
-#EXTINF:-1 tvg-id="sctv12hd" group-title="05.SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/74.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv12/xemlai/${start}-${offset}/ref/ref#|Referer=https://sctvonline.vn", SCTV12 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://sctvonline.vn
-https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv12?#|Referer=https://sctvonline.vn
-
-#EXTINF:-1 tvg-id="sctv13hd" group-title="05.SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/75.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv13/xemlai/${start}-${offset}/ref/ref#|Referer=https://sctvonline.vn", SCTV13 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://sctvonline.vn
-https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv13?#|Referer=https://sctvonline.vn
-
-#EXTINF:-1 tvg-id="sctv14hd" group-title="05.SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/76.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv14/xemlai/${start}-${offset}/ref/ref#|Referer=https://sctvonline.vn", SCTV14 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://sctvonline.vn
-https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv14?#|Referer=https://sctvonline.vn
-
-#EXTINF:-1 tvg-id="sctv15hd" group-title="05.SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv15/xemlai/${start}-${offset}/ref/ref#|Referer=https://sctvonline.vn", SCTV15 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://sctvonline.vn
-https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv15?#|Referer=https://sctvonline.vn
-
-#EXTINF:-1 tvg-id="sctv16hd" group-title="05.SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/78.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv16/xemlai/${start}-${offset}/ref/ref#|Referer=https://sctvonline.vn", SCTV16 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://sctvonline.vn
-https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv16?#|Referer=https://sctvonline.vn
-
-#EXTINF:-1 tvg-id="sctv17hd" group-title="05.SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/79.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv17/xemlai/${start}-${offset}/ref/ref#|Referer=https://sctvonline.vn", SCTV17 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://sctvonline.vn
-https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv17?#|Referer=https://sctvonline.vn
-
-#EXTINF:-1 tvg-id="sctv18hd" group-title="05.SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/80.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv18/xemlai/${start}-${offset}/ref/ref#|Referer=https://sctvonline.vn", SCTV18 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://sctvonline.vn
-https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv18?#|Referer=https://sctvonline.vn
-
-#EXTINF:-1 tvg-id="sctv19hd" group-title="05.SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/81.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv19/xemlai/${start}-${offset}/ref/ref#|Referer=https://sctvonline.vn", SCTV19 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://sctvonline.vn
-https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv19?#|Referer=https://sctvonline.vn
-
-#EXTINF:-1 tvg-id="sctv20hd" group-title="05.SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/82.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv20/xemlai/${start}-${offset}/ref/ref#|Referer=https://sctvonline.vn", SCTV20 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://sctvonline.vn
-https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv20?#|Referer=https://sctvonline.vn
-
-#EXTINF:-1 tvg-id="sctv21hd" group-title="05.SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/83.png", SCTV21 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://sctvonline.vn
-https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv21?#|Referer=https://sctvonline.vn
-
-#EXTINF:-1 tvg-id="sctv22hd" group-title="05.SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/84.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv22/xemlai/${start}-${offset}/ref/ref#|Referer=https://sctvonline.vn", SCTV22 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://sctvonline.vn
-https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv22?#|Referer=https://sctvonline.vn
-
-#EXTINF:-1 tvg-id="sctvhdpth" group-title="05.SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/102.png", SCTV HD Phim Tổng Hợp
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://sctvonline.vn
-https://synguyen.net/api/token/63324f30c74029fa8a5a5b4a556cd585/getlink/sctv/id/sctv-phim-tong-hop?#|Referer=https://sctvonline.vn
-
 
 
 #EXTINF:-1,DE: Sky Sport Premiere League
