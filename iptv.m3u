@@ -230,11 +230,52 @@ http://37.49.225.197:8080/fastmedia/UP4B28mSye5ZHA6u/297551
 http://liv3e.click:2095/932366961321/377781417329/374557
 #EXTINF:-1,DE:Sky Sport top
 http://liv3e.click:2095/932366961321/377781417329/374561
-#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",SkySportsMainEvent
-https://7pal.short.gy/SSMEuhd
 
-#EXTINF:-1 tvg-id="Hub.Premier.2.(HD).sg" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="Sports",HUBPremier2
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="THỂ THAO",SkySportsMainEventUHD
+https://7pal.short.gy/SSMEuhd
+#EXTINF:-1 tvg-id="SkySportsUHD" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/bltf067295452c6f475/5f5f463021ecf947895d945a/Sky_Sports_Logo_September_2020.jpg" group-title="THỂ THAO",SkySportsUHD
+https://7pal.short.gy/skysptUHD1
+#EXTINF:-1 tvg-id="Astro.SuperSport.UHD.1.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-title="THỂ THAO",AstroSuperSportUHD
+https://7pal.short.gy/astrouhd
+#EXTINF:-1 tvg-id="4k_DIGITAL_Mono_EN.bein" tvg-logo="https://www.universfreebox.com/wp-content/uploads/2022/11/beinsport4k-800x450-c-default.jpg" group-title="THỂ THAO",beINUHD
+https://7pal.short.gy/bein-uhd
+#EXTINF:-1 tvg-id="English.-.Now.Sports.4K.1.hk" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_170_122" group-title="THỂ THAO",NowSportsUHD
+https://7pal.short.gy/nowsport4k
+#EXTINF:-1 tvg-id="Hub.Premier.2.(HD).sg" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="THỂ THAO",HUBPremier2UHD
 https://7pal.short.gy/HubP2uhd
+#EXTINF:-1 tvg-id="V.sport.ULTRA.HD.fi" tvg-logo="https://i.imgur.com/J2dnfBZ.png" group-title="THỂ THAO",V SportUltraHD
+https://7pal.short.gy/VSportUHD
+#EXTINF:-1 tvg-id="BT.Sport.Ultimate.uk" tvg-logo="https://media.info/l/o/5/5824.1689874022.png" group-title="THỂ THAO",TNTSportUltimate
+https://7pal.short.gy/TNTUltimate
+#EXTINF:-1 tvg-id="Digi.4K.ro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg" group-title="THỂ THAO",DigiUHD
+https://7pal.short.gy/digi4k
+#EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://i.imgur.com/PUaJPaE.png" group-title="THỂ THAO",ElevenSport1UHD
+https://7pal.short.gy/11sports1
+#EXTINF:-1 tvg-id="5SPORT.4K.[Sport.5.4K].il" tvg-logo="https://i.imgur.com/EPIy6eZ.png" group-title="THỂ THAO",5SportUHD
+https://7pal.short.gy/5sport
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="THỂ THAO",SkySportsF1UHD
+https://7pal.short.gy/SSF1uhd
+#EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-logo="https://i.imgur.com/N7K865M.png" group-title="THỂ THAO",ZiggoSportUHD
+https://7pal.short.gy/ZiggoSport
+#EXTINF:-1 tvg-id="EUROSPORT.4K.eurosport" tvg-logo="https://www.avcesar.com/source/actualites/00/00/86/99/comment-regarder-les-jeux-olympiques-tokyo-2020-en-ultra-hd-4k_07130411.jpg" group-title="THỂ THAO",EuroSport4K / Testing / Thử nghiệm
+https://7pal.short.gy/eusport4k
+#EXTINF:-1 tvg-id="BT.Sport.1.HD.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="THỂ THAO", TNTSports1-FHD
+https://7pal.short.gy/tntspts1
+#EXTINF:-1 tvg-id="BT.Sport.2.HD.uk" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="THỂ THAO", TNTSports2-FHD
+https://7pal.short.gy/tntspts2
+#EXTINF:-1 tvg-id="BT.Sport.3.HD.uk" tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="THỂ THAO", TNTSports3-FHD
+https://7pal.short.gy/tntspts3
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/dUAIbXN.png" group-title="THỂ THAO", SkySportsPL-FHD
+https://7pal.short.gy/ssportspl
+#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://i.imgur.com/TRX5fQr.png" group-title="THỂ THAO", SkySportsFBALL-FHD
+https://7pal.short.gy/ssportsfb
+#EXTINF:-1 tvg-id="HubPremier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" group-title="THỂ THAO", HubPremier1-FHD
+https://7pal.short.gy/HPremier1
+#EXTINF:-1 tvg-id="Hub.Premier.2.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png" group-title="THỂ THAO", HubPremier2-FHD
+https://7pal.short.gy/HPremier2
+#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png" group-title="THỂ THAO", HubPremier3-FHD
+https://7pal.short.gy/HPremier3
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,https://trada.info/epg.xml" tvg-shift=0 m3uautoload=1
 
 
 
