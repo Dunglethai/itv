@@ -121,8 +121,8 @@ https://code.vthanhtivi.pw/getlink/sctvonline/sctv22/playlist.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://code.vthanhtivi.pw/getlink/sctvonline/sctvpth/playlist.m3u8
 
-#EXTINF:-1,DE: Sky Sport Premiere League
-http://37.49.225.197:8080/fastmedia/UP4B28mSye5ZHA6u/298381
+#EXTINF:-1,DE: Sky Sport Premiere League hay
+http://127.0.0.1:6878/ace/m/071b49a1c52d304cae6300e2776022eec7ebe6cd/4703c3d8e023abe02996030208832c23.m3u8
 #EXTINF:-1,DE: Sky Sport Top Event
 http://37.49.225.197:8080/fastmedia/UP4B28mSye5ZHA6u/297551
 
