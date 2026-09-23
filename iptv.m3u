@@ -1,5 +1,4 @@
 #EXTM3U 
-
 #EXTINF:0 tvg-logo="http://download.truongquocvi.com/logo/sctv1.png",SCTV 1
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv1/playlist_720p.m3u8
 #EXTINF:0 tvg-logo="http://download.truongquocvi.com/logo/sctv2.png",SCTV 2
@@ -34,5 +33,3 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv18/playlist_720p.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv19/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://tracking.sctvonline.vn/logo/1768872702_sctv20_15ee87fd.png",SCTV 20
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/playlist_720p.m3u8
-
-
